@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-07-29T18:45:20.911Z",
+  "summary": {
+    "total": 2,
+    "passed": 0,
+    "failed": 2,
+    "successRate": 0,
+    "totalDuration": 30322,
+    "averageDuration": 15161,
+    "testedSubset": "2",
+    "uniqueEntitiesUsed": 4,
+    "entitiesByType": {
+      "movie": 4,
+      "music": 0,
+      "tv_show": 0,
+      "book": 0,
+      "podcast": 0,
+      "video_game": 0
+    }
+  },
+  "results": [
+    {
+      "combination": "movie + movie → movie",
+      "success": false,
+      "duration": 15173,
+      "searches": [],
+      "recommendation": null,
+      "error": "No greeting received"
+    },
+    {
+      "combination": "movie + movie → music",
+      "success": false,
+      "duration": 15149,
+      "searches": [],
+      "recommendation": null,
+      "error": "No greeting received"
+    }
+  ]
+}

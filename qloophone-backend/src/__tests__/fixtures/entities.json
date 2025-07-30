@@ -1,0 +1,116 @@
+{
+  "artists": [
+    {
+      "id": "4BBEF799-A0C4-4110-AB01-39216993C312",
+      "name": "Taylor Swift",
+      "type": "urn:entity:artist"
+    },
+    {
+      "id": "C0E17E3C-A232-466D-A741-E18A6E978C88",
+      "name": "Ed Sheeran",
+      "type": "urn:entity:artist"
+    },
+    {
+      "id": "65F4F0C5-EF9E-490C-AAE3-F01447F0FB20",
+      "name": "Metallica",
+      "type": "urn:entity:artist"
+    },
+    {
+      "id": "B52BC8A6-5213-4FA2-8B2B-29F2AE37F8CC",
+      "name": "Iron Maiden",
+      "type": "urn:entity:artist"
+    }
+  ],
+  "tvShows": [
+    {
+      "id": "47E7E04C-7D19-48D8-B771-73AEC4430765",
+      "name": "The Office",
+      "type": "urn:entity:tv_show"
+    },
+    {
+      "id": "C5B1CCF7-8B63-4942-A635-A24C7B6269A1",
+      "name": "Parks and Recreation",
+      "type": "urn:entity:tv_show"
+    },
+    {
+      "id": "84D89877-E108-4EE2-8AEB-8E0BBDDDEFD5",
+      "name": "Brooklyn Nine-Nine",
+      "type": "urn:entity:tv_show"
+    },
+    {
+      "id": "1DB74174-39FB-4CF8-9E5D-1F1C4B6614C8",
+      "name": "30 Rock",
+      "type": "urn:entity:tv_show"
+    }
+  ],
+  "movies": [
+    {
+      "id": "A8715EAB-6DA1-4BA5-A84B-FB4BA343592C",
+      "name": "Best in Show",
+      "type": "urn:entity:movie"
+    },
+    {
+      "id": "D59BB2C8-06F1-4906-99E4-86E8A7A254F8",
+      "name": "Final Destination",
+      "type": "urn:entity:movie"
+    },
+    {
+      "id": "F47AC10B-58CC-4372-A567-0E02B2C3D479",
+      "name": "The Notebook",
+      "type": "urn:entity:movie"
+    },
+    {
+      "id": "9AFCC6C8-A523-4A86-A9E5-76B7D7E91D9C",
+      "name": "Mad Max: Fury Road",
+      "type": "urn:entity:movie"
+    }
+  ],
+  "places": [
+    {
+      "id": "cafe-001",
+      "name": "Blue Bottle Coffee",
+      "type": "urn:entity:place",
+      "tags": [{ "name": "coffee_shop" }, { "name": "cafe" }],
+      "properties": {
+        "address": "450 W 15th St, New York, NY 10014"
+      }
+    },
+    {
+      "id": "B13C02E3-BA3C-4B39-85B4-ACF12FEBC892",
+      "name": "Starbucks",
+      "type": "urn:entity:brand"
+    },
+    {
+      "id": "bar-001",
+      "name": "The Dead Rabbit",
+      "type": "urn:entity:place",
+      "tags": [{ "name": "bar" }, { "name": "pub" }],
+      "properties": {
+        "address": "30 Water St, New York, NY 10004"
+      }
+    }
+  ],
+  "localities": [
+    {
+      "id": "CCF5094A-C28D-4B5C-AEBB-00BA7911D29E",
+      "name": "New York",
+      "type": "urn:entity:locality"
+    },
+    {
+      "id": "81E61924-6CEE-4AB4-93D3-282A5C784AB8",
+      "name": "Los Angeles",
+      "type": "urn:entity:locality"
+    },
+    {
+      "id": "8F8C5A7E-2345-4D89-A123-123456789ABC",
+      "name": "SoHo",
+      "type": "urn:entity:locality"
+    }
+  ],
+  "testCombinations": {
+    "comedyPair1": ["47E7E04C-7D19-48D8-B771-73AEC4430765", "C5B1CCF7-8B63-4942-A635-A24C7B6269A1"],
+    "comedyPair2": ["84D89877-E108-4EE2-8AEB-8E0BBDDDEFD5", "1DB74174-39FB-4CF8-9E5D-1F1C4B6614C8"],
+    "crossDomain1": ["4BBEF799-A0C4-4110-AB01-39216993C312", "F47AC10B-58CC-4372-A567-0E02B2C3D479"],
+    "crossDomain2": ["65F4F0C5-EF9E-490C-AAE3-F01447F0FB20", "9AFCC6C8-A523-4A86-A9E5-76B7D7E91D9C"]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-07-29T19:42:51.960Z",
+  "summary": {
+    "total": 2,
+    "passed": 1,
+    "failed": 1,
+    "successRate": 50,
+    "totalDuration": 85056,
+    "averageDuration": 42528,
+    "testedSubset": "2",
+    "uniqueEntitiesUsed": 4,
+    "entitiesByType": {
+      "movie": 4,
+      "music": 0,
+      "tv_show": 0,
+      "book": 0,
+      "podcast": 0,
+      "video_game": 0
+    }
+  },
+  "results": [
+    {
+      "combination": "movie + movie → movie",
+      "success": true,
+      "duration": 6388,
+      "searches": [
+        {
+          "name": "search_entity",
+          "arguments": {
+            "query": "The Matrix"
+          },
+          "call_id": "call_otVPK6pKUI14QrEZ",
+          "timestamp": 1753818089572
+        },
+        {
+          "name": "search_entity",
+          "arguments": {
+            "query": "Inception"
+          },
+          "call_id": "call_o1HODAp0AUKctwLQ",
+          "timestamp": 1753818090454
+        }
+      ],
+      "recommendation": {
+        "name": "get_recommendation",
+        "arguments": {
+          "entity_ids": "C6046119-7760-4733-B84E-374E029B14DC,18B098FD-3D84-4609-BFF3-ADF9A0B00E40",
+          "take": 1
+        },
+        "call_id": "call_ybcnysoV2UvNoDnV",
+        "timestamp": 1753818091207
+      }
+    },
+    {
+      "combination": "movie + movie → music",
+      "success": false,
+      "duration": 78668,
+      "searches": [],
+      "recommendation": null,
+      "error": "No recommendation received"
+    }
+  ]
+}

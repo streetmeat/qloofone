@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Test results and outputs
+src/__tests__/e2e/api-test-results.json
+test-results/
+jest-results/
+
+# Cache directory
+cache/
+
+# API logs
+api_calls.log
+
+# Temporary files
+*.tmp
+*.tempbackend-logs.txt

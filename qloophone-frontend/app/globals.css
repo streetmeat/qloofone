@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes phosphorGlow {
+  0% {
+    filter: brightness(1) contrast(1);
+  }
+  50% {
+    filter: brightness(1.2) contrast(1.1);
+  }
+  100% {
+    filter: brightness(1) contrast(1);
+  }
+}
+
+@layer base {
+  :root {
+    /* Custom Font Properties */
+    --font-inter: "Inter", sans-serif;
+    /* A fallback stack for a geometric sans-serif like Avant Garde or Futura */
+    --font-avant-garde: "Avant Garde", "Futura", "Century Gothic", "Verdana", sans-serif;
+
+    /* Custom Color Properties */
+    --charcoal: #1a1a1a;
+    --clr-accent1: #0099cc;
+    --clr-accent2: #ff2975;
+    --clr-accent3: #ffc247;
+
+    /* Default shadcn/ui variables */
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 0 0% 98%;
+    --radius: 0.5rem;
+  }
+
+  body {
+    @apply bg-charcoal text-gray-200 font-sans;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer utilities {
+  /* CRT Scanline Overlay for a retro feel on larger screens */
+  @media (min-width: 768px) {
+    body {
+      /* Adds a subtle noise pattern to the background */
+      background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800"><rect fill="%231a1a1a" width="800" height="800"/><g fill-opacity="0.02"><circle fill="%23ffffff" cx="400" cy="400" r="600"/><circle fill="%231a1a1a" cx="400" cy="400" r="500"/><circle fill="%231a1a1a" cx="400" cy="400" r="400"/><circle fill="%23ffffff" cx="400" cy="400" r="300"/><circle fill="%231a1a1a" cx="400" cy="400" r="200"/><circle fill="%23ffffff" cx="400" cy="400" r="100"/></g></svg>');
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      /* Combines scanlines with a vignette effect */
+      background-image: linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+        radial-gradient(ellipse at center, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.4) 100%);
+      background-size: 100% 2px, 100% 100%;
+      pointer-events: none;
+      z-index: 9999;
+      opacity: 0.6;
+      /* Add a subtle, random glitch animation */
+      animation: glitch 4s linear infinite alternate-reverse;
+    }
+  }
+
+  /* Accessibility: Reduce motion for users who prefer it */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-delay: -1ms !important;
+      animation-duration: 1ms !important;
+      animation-iteration-count: 1 !important;
+      background-attachment: initial !important;
+      scroll-behavior: auto !important;
+      transition-duration: 0s !important;
+      transition-delay: 0s !important;
+    }
+  }
+}

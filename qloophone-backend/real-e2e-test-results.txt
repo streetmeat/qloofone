@@ -1,0 +1,151 @@
+
+> qloophone-backend@1.0.0 test:real
+> ts-node src/__tests__/e2e/comprehensiveRealTest.ts 2
+
+Generated 216 total combinations
+🚀 Starting Comprehensive Real Conversation Tests
+================================================
+
+API Keys: ✅ OPENAI_API_KEY, ✅ QLOO_API_KEY
+Testing 216 entity combinations
+
+Starting server...
+[EntityCache] Loaded 1 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on port 8082
+
+[1/216] movie + movie → movie... Server running on http://localhost:8082
+Cache stats endpoint: http://localhost:8082/cache-stats
+[Frontend] New WebSocket connection established
+[SessionManager] New call connected: test-0-1753821497521
+[SessionManager] Active sessions: 1
+[SessionManager] Twilio connected for test-0-1753821497521, starting OpenAI session...
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Sending session config: {
+  voice: 'ash',
+  tools: 4,
+  toolNames: 'search_entity, search_locality, get_recommendation, get_fan_venues',
+  instructionsLength: 1922
+}
+[Model] session.created for session: test-0-1753821497521
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: test-0-1753821497521
+[Session] Updated - tools: 4
+[Session] Triggering greeting with 4 tools confirmed loaded
+[Model] response.output_item.done for session: test-0-1753821497521
+Waiting for OpenAI to process...
+[Frontend] Broadcasted to 1 active sessions
+[Frontend] Broadcasted to 1 active sessions
+[User Transcription] test-0-1753821497521: "I love The Matrix and Inception. What movie would you recommend?"
+[Model] response.output_item.done for session: test-0-1753821497521
+[Model] response.output_item.done for session: test-0-1753821497521
+[Function] search_entity called
+[2025-07-29T20:38:23.048Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Eternal Sunshine of the Spotless Mind' }
+[QLOO API] search_entity called with query: "Eternal Sunshine of the Spotless Mind"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Eternal%20Sunshine%20of%20the%20Spotless%20Mind
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Eternal Sunshine of the Spotless Mind (086E2298-1734-4043-A1C9-0E18121B384C)
+[2025-07-29T20:38:23.731Z] Function search_entity completed in 683ms
+[Model] response.output_item.done for session: test-0-1753821497521
+[Function] get_recommendation called
+[2025-07-29T20:38:24.518Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '086E2298-1734-4043-A1C9-0E18121B384C',
+  output_type: 'urn:entity:movie'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 086E2298-1734-4043-A1C9-0E18121B384C
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:movie
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Donnie Darko (score: 0.935)
+[QLOO API]      Tags: Shudder, Sky Go, therapy session, jet engine, video tutorial
+[QLOO API]      Influence: Eternal Sunshine of the Spotless Mind (100%)
+[QLOO API]   2. The Truman Show (score: 0.930)
+[QLOO API]      Tags: Yelo Play, creator creation relationship, Google Play Movies, dTV, Apple TV
+[QLOO API]      Influence: Eternal Sunshine of the Spotless Mind (100%)
+[QLOO API]   3. Good Will Hunting (score: 0.929)
+[QLOO API]      Tags: vietnam war veteran, construction site, Showtime Amazon Channel, character name in title, date
+[QLOO API]      Influence: Eternal Sunshine of the Spotless Mind (100%)
+[QLOO API]   Taste Bridge: Strong match for Eternal Sunshine of the Spotless Mind fans (100% affinity)
+[2025-07-29T20:38:26.033Z] Function get_recommendation completed in 1515ms
+[Model] response.output_item.done for session: test-0-1753821497521
+Function calls made: 1 searches, 1 recommendations
+✅ (18.4s)
+[Frontend] Connection closed
+[SessionManager] Call disconnected: test-0-1753821497521
+[SessionManager] Active sessions: 0
+[2/216] movie + movie → music... [Frontend] New WebSocket connection established
+[SessionManager] New call connected: test-1-1753821516901
+[SessionManager] Active sessions: 1
+[SessionManager] Twilio connected for test-1-1753821516901, starting OpenAI session...
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Sending session config: {
+  voice: 'ash',
+  tools: 4,
+  toolNames: 'search_entity, search_locality, get_recommendation, get_fan_venues',
+  instructionsLength: 1922
+}
+[Model] session.created for session: test-1-1753821516901
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: test-1-1753821516901
+[Session] Updated - tools: 4
+[Session] Triggering greeting with 4 tools confirmed loaded
+[Model] response.output_item.done for session: test-1-1753821516901
+Waiting for OpenAI to process...
+[Frontend] Broadcasted to 1 active sessions
+[Frontend] Broadcasted to 1 active sessions
+[User Transcription] test-1-1753821516901: "I love Pulp Fiction and The Godfather. What music would you recommend?"
+[Model] response.output_item.done for session: test-1-1753821516901
+Function calls made: 0 searches, 0 recommendations
+✅ (19.1s)
+[Frontend] Connection closed
+[SessionManager] Call disconnected: test-1-1753821516901
+[SessionManager] Active sessions: 0
+[3/216] movie + movie → tv_show... [Frontend] New WebSocket connection established
+[SessionManager] New call connected: test-2-1753821537068
+[SessionManager] Active sessions: 1
+[SessionManager] Twilio connected for test-2-1753821537068, starting OpenAI session...
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Sending session config: {
+  voice: 'ash',
+  tools: 4,
+  toolNames: 'search_entity, search_locality, get_recommendation, get_fan_venues',
+  instructionsLength: 1922
+}
+[Model] session.created for session: test-2-1753821537068
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: test-2-1753821537068
+[Session] Updated - tools: 4
+[Session] Triggering greeting with 4 tools confirmed loaded
+[Model] response.output_item.done for session: test-2-1753821537068
+Waiting for OpenAI to process...
+[Frontend] Broadcasted to 1 active sessions
+[Frontend] Broadcasted to 1 active sessions
+[User Transcription] test-2-1753821537068: "I love Star Wars and The Dark Knight. What tv show would you recommend?"
+[Model] response.output_item.done for session: test-2-1753821537068
+[Model] response.output_item.done for session: test-2-1753821537068
+[Function] search_entity called
+[2025-07-29T20:39:01.275Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Mandalorian' }
+[QLOO API] search_entity called with query: "The Mandalorian"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Mandalorian
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Mandalorian (24FA08F2-0B47-4A01-B44E-CF18C06E5781)
+[2025-07-29T20:39:01.780Z] Function search_entity completed in 505ms
+[Model] response.output_item.done for session: test-2-1753821537068
+[Function] get_recommendation called
+[2025-07-29T20:39:02.321Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '24FA08F2-0B47-4A01-B44E-CF18C06E5781',
+  output_type: 'urn:entity:tv_show',
+  take: 3
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 24FA08F2-0B47-4A01-B44E-CF18C06E5781
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show

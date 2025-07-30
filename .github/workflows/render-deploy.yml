@@ -1,0 +1,25 @@
+name: Deploy to Render
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Trigger Render Deploy Hook
+        run: |
+          echo "Render will automatically deploy from GitHub webhook"
+          echo "No additional action needed - just push to main branch"
+          
+      # Optional: Add health check after deploy
+      - name: Wait for Deploy
+        run: sleep 60
+        
+      - name: Health Check
+        run: |
+          curl -f ${{ secrets.BACKEND_URL }}/health || exit 1

@@ -1,0 +1,63 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Development files
+.env
+.env.local
+.env.*.local
+
+# Test files and results
+__tests__/
+*.test.ts
+*.test.js
+jest.config.js
+coverage/
+.nyc_output
+test-results*
+comprehensive-test-results*
+real-test-results*
+unit-test-results.txt
+test_results.log
+test-output.log
+*.log
+
+# Node modules (each service has its own)
+node_modules/
+
+# Build outputs (built in Docker)
+dist/
+.next/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Scripts
+*.sh
+
+# Cache
+cache/
+
+# Other services not being deployed
+qloophone-frontend/
+
+# CI/CD
+.github/

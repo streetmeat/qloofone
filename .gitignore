@@ -1,0 +1,75 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+.nyc_output
+
+# Production
+build/
+dist/
+out/
+out-public/
+static-build/
+
+# Secrets - NEVER COMMIT THESE
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# API Logs - May contain keys
+api_calls.log
+*.log
+server.log
+
+# Test Results with Entity IDs
+*test_results_*.json
+discovered_entities_private.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Next.js
+.next/
+*.tsbuildinfo
+next-env.d.ts
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.cache
+.temp
+.tmp
+
+# Deployment
+.vercel
+.netlify
+
+# EXCLUDE ALL DOCS AND SCRIPTS BY DEFAULT
+/docs/
+/scripts/
+*.md
+
+# SELECTIVELY ALLOW ONLY THESE
+!PRD.md
+!README.md
+!.env.example
+
+# You can selectively add back with:
+# git add -f docs/specific-file.md
+# git add -f scripts/specific-script.py.claude/

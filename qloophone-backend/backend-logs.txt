@@ -1,0 +1,1903 @@
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.input_audio_transcription.delta for session: MZe6259cf6cbf5524d23a59f
+0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.input_audio_transcription.completed for session: MZe6259cf6cbf5524d23
+a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: rate_limits.updated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: input_audio_buffer.speech_started for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.truncated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: input_audio_buffer.speech_stopped for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: input_audio_buffer.committed for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Function call detected: search_entity {"query":"The Shining book"}
+[2025-07-28T23:34:57.258Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Shining book' }
+[QLOO API] search_entity called with query: "The Shining book"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Shining%20book
+[Model] Received event: response.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: rate_limits.updated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Shining (The Shining, #1) (1D9DB707-B60A-45DF-BC2C-A50BE14894AC)
+[2025-07-28T23:34:58.066Z] Function search_entity completed in 808ms
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.input_audio_transcription.delta for session: MZe6259cf6cbf5524d23a59f
+0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.input_audio_transcription.completed for session: MZe6259cf6cbf5524d23
+a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Function call detected: get_recommendation {"entity_ids":"82B297F2-E18D-4FE6-B23D-23D90E3BE55A,1D9DB707
+-B60A-45DF-BC2C-A50BE14894AC"}
+[2025-07-28T23:34:58.855Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '82B297F2-E18D-4FE6-B23D-23D90E3BE55A,1D9DB707-B60A-45DF-BC2C-A50BE14894AC'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 82B297F2-E18D-4FE6-B23D-23D90E3BE55A,1D9DB707-B60A-45DF-BC2C-A50BE14894AC
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API]   Input entity: Danny Brown (82B297F2-E18D-4FE6-B23D-23D90E3BE55A) - Type: urn:entity:artist
+[QLOO API]   Input entity: The Shining (The Shining, #1) (1D9DB707-B60A-45DF-BC2C-A50BE14894AC) - Type: urn:ent
+ity:book
+[QLOO API]   Mixed types (urn:entity:artist, urn:entity:book), using: urn:entity:artist
+[QLOO API] Calling: GET https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Aentity%3Aartist&take=5&fea
+ture.explainability=true&signal.interests.entities=82B297F2-E18D-4FE6-B23D-23D90E3BE55A%2C1D9DB707-B60A-45DF-BC
+2C-A50BE14894AC
+[Model] Received event: response.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: rate_limits.updated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Run the Jewels (score: 0.864)
+[QLOO API]      Tags: Underground Hip Hop, Hip - Hop, Rap
+[QLOO API]   2. The Velvet Underground (score: 0.858)
+[QLOO API]      Tags: Rock, Classic Rock, Alternative Rock, Psychedelic, Proto Punk
+[QLOO API]   3. OutKast (score: 0.855)
+[QLOO API]      Tags: Rap, Hip - Hop, Funk, Soul
+[QLOO API]   Taste Bridge: Especially great for Danny Brown fans, with elements of The Shining (The Shining, #1
+)
+[2025-07-28T23:34:59.061Z] Function get_recommendation completed in 206ms
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: rate_limits.updated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: input_audio_buffer.speech_started for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: error for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: input_audio_buffer.speech_stopped for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: input_audio_buffer.committed for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.input_audio_transcription.delta for session: MZe6259cf6cbf5524d23a59f
+0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.input_audio_transcription.completed for session: MZe6259cf6cbf5524d23
+a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: rate_limits.updated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.function_call_arguments.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Function call detected: get_recommendation {"entity_ids":"1D9DB707-B60A-45DF-BC2C-A50BE14894AC,8C4B0C9F
+-6C70-4EA5-8B5C-F2A414A6D5EB"}
+[2025-07-28T23:35:20.539Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '1D9DB707-B60A-45DF-BC2C-A50BE14894AC,8C4B0C9F-6C70-4EA5-8B5C-F2A414A6D5EB'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 1D9DB707-B60A-45DF-BC2C-A50BE14894AC,8C4B0C9F-6C70-4EA5-8B5C-F2A414A6D5EB
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API]   Input entity: The Shining (The Shining, #1) (1D9DB707-B60A-45DF-BC2C-A50BE14894AC) - Type: urn:ent
+ity:book
+[QLOO API]   Same type inputs, using: urn:entity:book
+[QLOO API] Calling: GET https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Aentity%3Abook&take=5&featu
+re.explainability=true&signal.interests.entities=1D9DB707-B60A-45DF-BC2C-A50BE14894AC%2C8C4B0C9F-6C70-4EA5-8B5C
+-F2A414A6D5EB
+[Model] Received event: response.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: rate_limits.updated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. It (score: 0.986)
+[QLOO API]      Tags: Fantasy, Paranormal, Audiobook, Mystery, Classics
+[QLOO API]   2. Carrie (score: 0.971)
+[QLOO API]      Tags: Fiction, Horror, Supernatural, Adult, Novels
+[QLOO API]   3. The Green Mile (score: 0.971)
+[QLOO API]      Tags: Thriller, Fantasy, Fiction, Crime, Classics
+[QLOO API]   Taste Bridge: Strong match for The Shining (The Shining, #1) fans (100% affinity)
+[2025-07-28T23:35:20.939Z] Function get_recommendation completed in 400ms
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: conversation.item.created for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.added for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.delta for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.audio_transcript.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.content_part.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.output_item.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: response.done for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[Model] Received event: rate_limits.updated for session: MZe6259cf6cbf5524d23a59f0e3ff54726
+[Model] Frontend conn status: closed
+[SessionManager] Call disconnected: MZe6259cf6cbf5524d23a59f0e3ff54726
+[SessionManager] Active sessions: 0
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+^C
+streetmeat@jetson:~/qloo/qloophone-backend$ ^C
+streetmeat@jetson:~/qloo/qloophone-backend$ ^C
+streetmeat@jetson:~/qloo/qloophone-backend$ clear
+streetmeat@jetson:~/qloo/qloophone-backend$ npm run dev
+
+> qloophone-backend@1.0.0 dev
+> nodemon src/server.ts
+
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): src/**/*
+[nodemon] watching extensions: ts,js
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+^C[nodemon] still waiting for 1 sub-process to finish...
+
+streetmeat@jetson:~/qloo/qloophone-backend$ PUBLIC_URL=https://8272c86a3b11.ngrok-free.app npm run dev
+
+> qloophone-backend@1.0.0 dev
+> nodemon src/server.ts
+
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): src/**/*
+[nodemon] watching extensions: ts,js
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 6 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ40eaee80111181b3a528ed754622fcf1
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ40eaee80111181b3a528ed754622fcf1, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ40eaee80111181b3a528ed754622fcf1
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ40eaee80111181b3a528ed754622fcf1
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] error for session: MZ40eaee80111181b3a528ed754622fcf1
+[Model] response.output_item.done for session: MZ40eaee80111181b3a528ed754622fcf1
+[Model] response.output_item.done for session: MZ40eaee80111181b3a528ed754622fcf1
+[Function] search_entity called
+[2025-07-29T00:06:25.328Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Hackers movie' }
+[QLOO API] search_entity called with query: "Hackers movie"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Hackers%20movie
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Hackers (50A10137-3690-4FCA-9E1A-91148342A4AF)
+[2025-07-29T00:06:27.630Z] Function search_entity completed in 2302ms
+⚠️ SLOW FUNCTION: search_entity took 2302ms
+[Model] response.output_item.done for session: MZ40eaee80111181b3a528ed754622fcf1
+[Function] search_entity called
+[2025-07-29T00:06:28.663Z] Starting function call: search_entity
+Calling function: search_entity { query: 'This American Life podcast' }
+[QLOO API] search_entity called with query: "This American Life podcast"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=This%20American%20Life%20podca
+st
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: This American Life (BF80E280-A231-44B0-B98C-31C541F007E2)
+[2025-07-29T00:06:28.893Z] Function search_entity completed in 230ms
+[Model] response.output_item.done for session: MZ40eaee80111181b3a528ed754622fcf1
+[Function] get_recommendation called
+[2025-07-29T00:06:30.552Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '50A10137-3690-4FCA-9E1A-91148342A4AF,BF80E280-A231-44B0-B98C-31C541F007E2'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 50A10137-3690-4FCA-9E1A-91148342A4AF,BF80E280-A231-44B0-B98C-31C541F007E2
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[2025-07-29T00:06:32.030Z] Function get_recommendation completed in 1478ms
+[Model] response.output_item.done for session: MZ40eaee80111181b3a528ed754622fcf1
+[SessionManager] Call disconnected: MZ40eaee80111181b3a528ed754622fcf1
+[SessionManager] Active sessions: 0
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 8 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 8 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+^C
+streetmeat@jetson:~/qloo/qloophone-backend$ PUBLIC_URL=https://8272c86a3b11.ngrok-free.app npm run dev
+
+> qloophone-backend@1.0.0 dev
+> nodemon src/server.ts
+
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): src/**/*
+[nodemon] watching extensions: ts,js
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+^@ [EntityCache] Loaded 8 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZfb6e563eaeb46d8b7d804f73e1833c50
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZfb6e563eaeb46d8b7d804f73e1833c50, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZfb6e563eaeb46d8b7d804f73e1833c50
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZfb6e563eaeb46d8b7d804f73e1833c50
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZfb6e563eaeb46d8b7d804f73e1833c50
+[SessionManager] Call disconnected: MZfb6e563eaeb46d8b7d804f73e1833c50
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ855034ff129c1250298159bb4484c1d5
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ855034ff129c1250298159bb4484c1d5, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ855034ff129c1250298159bb4484c1d5
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ855034ff129c1250298159bb4484c1d5
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] error for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:10:44.369Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Luca' }
+[QLOO API] search_entity called with query: "Luca"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Luca
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: LUCA (5CC36A24-A23F-4534-9609-AAE934E4EBE5)
+[2025-07-29T00:10:46.687Z] Function search_entity completed in 2318ms
+⚠️ SLOW FUNCTION: search_entity took 2318ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:10:47.223Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Strangers' }
+[QLOO API] search_entity called with query: "The Strangers"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Strangers
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Strangers (EE95D287-ABCF-4916-A9A5-D7B3E6852389)
+[2025-07-29T00:10:47.479Z] Function search_entity completed in 256ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] get_recommendation called
+[2025-07-29T00:10:48.169Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '5CC36A24-A23F-4534-9609-AAE934E4EBE5,EE95D287-ABCF-4916-A9A5-D7B3E6852389'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 5CC36A24-A23F-4534-9609-AAE934E4EBE5,EE95D287-ABCF-4916-A9A5-D7B3E6852389
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Incident in a Ghostland (score: 0.904)
+[QLOO API]      Tags: Naver Store, Paramount+ Amazon Channel, Catchplay, handcuffs, police
+[QLOO API]   2. Megan Is Missing (score: 0.896)
+[QLOO API]      Tags: marijuana cigarette, teenage boy, Google Play Movies, Amazon Video, cell phone
+[QLOO API]   3. Marrowbone (score: 0.895)
+[QLOO API]      Tags: Google Play Movies, split personality, Telia Play, mirror, rifle
+[QLOO API]   Taste Bridge: Bridges The Strangers and LUCA preferences equally
+[2025-07-29T00:10:49.688Z] Function get_recommendation completed in 1519ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] error for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:11:15.521Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Producers' }
+[QLOO API] search_entity called with query: "The Producers"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Producers
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Producers (3913E7B9-0242-4863-8F79-82CB61C9FCFD)
+[2025-07-29T00:11:16.075Z] Function search_entity completed in 555ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:11:16.685Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Babysitter' }
+[QLOO API] search_entity called with query: "The Babysitter"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Babysitter
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Babysitter (8CBEFAD1-4E65-41F0-975F-2B36FBFC1E5F)
+[2025-07-29T00:11:16.964Z] Function search_entity completed in 279ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] get_recommendation called
+[2025-07-29T00:11:17.989Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '3913E7B9-0242-4863-8F79-82CB61C9FCFD,8CBEFAD1-4E65-41F0-975F-2B36FBFC1E5F'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 3913E7B9-0242-4863-8F79-82CB61C9FCFD,8CBEFAD1-4E65-41F0-975F-2B36FBFC1E5F
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. This Is Spinal Tap (score: 0.884)
+[QLOO API]      Tags: independent film, Comedy, dating, italian american, guitar
+[QLOO API]   2. Little Evil (score: 0.880)
+[QLOO API]      Tags: child protective services, pushed to death, real estate agent, ambiguous gender, apocalyp
+se
+[QLOO API]   3. Elvira: Mistress of the Dark (score: 0.879)
+[QLOO API]      Tags: Comedy, fire, indecent exposure, bar fight, poodle
+[QLOO API]   Taste Bridge: Especially great for The Producers fans, with elements of The Babysitter
+[2025-07-29T00:11:19.380Z] Function get_recommendation completed in 1391ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] error for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:11:40.825Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Robin Hood: Men in Tights' }
+[QLOO API] search_entity called with query: "Robin Hood: Men in Tights"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Robin%20Hood%3A%20Men%20in%20T
+ights
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Robin Hood: Men in Tights (8200D310-AFB0-44D5-A180-2CD31A42224B)
+[2025-07-29T00:11:41.721Z] Function search_entity completed in 896ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:11:43.558Z] Starting function call: search_entity
+Calling function: search_entity { query: 'This American Life' }
+[QLOO API] search_entity called with query: "This American Life"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=This%20American%20Life
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: This American Life (BF80E280-A231-44B0-B98C-31C541F007E2)
+[2025-07-29T00:11:43.800Z] Function search_entity completed in 242ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] get_recommendation called
+[2025-07-29T00:11:45.251Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '8200D310-AFB0-44D5-A180-2CD31A42224B,BF80E280-A231-44B0-B98C-31C541F007E2'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 8200D310-AFB0-44D5-A180-2CD31A42224B,BF80E280-A231-44B0-B98C-31C541F007E2
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Sorry to Bother You (score: 0.890)
+[QLOO API]      Tags: Strim, Amazon Video, salesman, magical realism, Drama
+[QLOO API]   2. Bill & Ted's Excellent Adventure (score: 0.880)
+[QLOO API]      Tags: high school, male name in title, teenager, rock band, socrates character
+[QLOO API]   3. Yesterday (score: 0.880)
+[QLOO API]      Tags: alternate reality, ringing telephone, Cineplex, Fantasy, stardom
+[QLOO API]   Taste Bridge: Especially great for This American Life fans, with elements of Robin Hood: Men in Ti
+ghts
+[2025-07-29T00:11:46.809Z] Function get_recommendation completed in 1558ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] error for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:12:10.232Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Danny Brown' }
+[QLOO API] search_entity called with query: "Danny Brown"
+[QLOO API] [CACHE HIT] Found in cache: Danny Brown (82B297F2-E18D-4FE6-B23D-23D90E3BE55A)
+[2025-07-29T00:12:10.234Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:12:10.827Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Streets' }
+[QLOO API] search_entity called with query: "The Streets"
+[QLOO API] [CACHE HIT] Found in cache: The Streets (500F7333-35BA-4CB2-8688-21E187B0D1C6)
+[2025-07-29T00:12:10.829Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] get_recommendation called
+[2025-07-29T00:12:11.680Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '82B297F2-E18D-4FE6-B23D-23D90E3BE55A,500F7333-35BA-4CB2-8688-21E187B0D1C6'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 82B297F2-E18D-4FE6-B23D-23D90E3BE55A,500F7333-35BA-4CB2-8688-21E187B0D1C6
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Mos Def (score: 0.900)
+[QLOO API]      Tags: Rap, Alternative Rap, Underground Hip Hop, Hip - Hop
+[QLOO API]   2. Wu-Tang Clan (score: 0.898)
+[QLOO API]   3. Nas (score: 0.897)
+[QLOO API]      Tags: New York, East Coast Rap, Hip - Hop, Rap
+[QLOO API]   Taste Bridge: Bridges Danny Brown and The Streets preferences equally
+[2025-07-29T00:12:12.183Z] Function get_recommendation completed in 503ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] error for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:12:34.840Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Darknet Diaries' }
+[QLOO API] search_entity called with query: "Darknet Diaries"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Darknet%20Diaries
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Darknet Diaries (95E640FA-4EC9-482E-A8E0-84AD7D41DE25)
+[2025-07-29T00:12:35.369Z] Function search_entity completed in 529ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] search_entity called
+[2025-07-29T00:12:36.425Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Serial' }
+[QLOO API] search_entity called with query: "Serial"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Serial
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Serial (E5C5D02D-C5E1-4189-BF91-FD1A2E0EEF06)
+[2025-07-29T00:12:36.590Z] Function search_entity completed in 165ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[Function] get_recommendation called
+[2025-07-29T00:12:37.866Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '95E640FA-4EC9-482E-A8E0-84AD7D41DE25,E5C5D02D-C5E1-4189-BF91-FD1A2E0EEF06'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 95E640FA-4EC9-482E-A8E0-84AD7D41DE25,E5C5D02D-C5E1-4189-BF91-FD1A2E0EEF06
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. S-Town (score: 0.883)
+[QLOO API]      Tags: Personal Journals, Society & Culture, Podcasts
+[QLOO API]   2. Criminal (score: 0.849)
+[QLOO API]      Tags: True Crime, Podcasts, Society & Culture, Documentary
+[QLOO API]   3. Radiolab (score: 0.846)
+[QLOO API]      Tags: Podcasts, Natural Sciences, Society & Culture, Documentary, Science
+[QLOO API]   Taste Bridge: Bridges Serial and Darknet Diaries preferences equally
+[2025-07-29T00:12:38.090Z] Function get_recommendation completed in 224ms
+[Model] response.output_item.done for session: MZ855034ff129c1250298159bb4484c1d5
+[SessionManager] Call disconnected: MZ855034ff129c1250298159bb4484c1d5
+[SessionManager] Active sessions: 0
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 16 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+^C
+streetmeat@jetson:~/qloo/qloophone-backend$ clear
+streetmeat@jetson:~/qloo/qloophone-backend$ PUBLIC_URL=https://8272c86a3b11.ngrok-free.app npm run dev
+
+> qloophone-backend@1.0.0 dev
+> nodemon src/server.ts
+
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): src/**/*
+[nodemon] watching extensions: ts,js
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 16 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZb273457b539b4e95299eb4d2da69e706
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZb273457b539b4e95299eb4d2da69e706, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZb273457b539b4e95299eb4d2da69e706
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZb273457b539b4e95299eb4d2da69e706
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZb273457b539b4e95299eb4d2da69e706
+[Model] error for session: MZb273457b539b4e95299eb4d2da69e706
+[Model] response.output_item.done for session: MZb273457b539b4e95299eb4d2da69e706
+[SessionManager] Call disconnected: MZb273457b539b4e95299eb4d2da69e706
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ4d7170023227bcca701e1c98e45cfdd6
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ4d7170023227bcca701e1c98e45cfdd6, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] error for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:25:23.340Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Luca' }
+[QLOO API] search_entity called with query: "Luca"
+[QLOO API] [CACHE HIT] Found in cache: LUCA (5CC36A24-A23F-4534-9609-AAE934E4EBE5)
+[2025-07-29T00:25:23.345Z] Function search_entity completed in 5ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:25:24.221Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Encanto' }
+[QLOO API] search_entity called with query: "Encanto"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Encanto
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Encanto (5C6428A2-60CA-4776-8E38-5F554EE2D0D7)
+[2025-07-29T00:25:24.993Z] Function search_entity completed in 772ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] get_recommendation called
+[2025-07-29T00:25:26.175Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '5CC36A24-A23F-4534-9609-AAE934E4EBE5,5C6428A2-60CA-4776-8E38-5F554EE2D0D7'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 5CC36A24-A23F-4534-9609-AAE934E4EBE5,5C6428A2-60CA-4776-8E38-5F554EE2D0D7
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Turning Red (score: 0.913)
+[QLOO API]      Tags: mother daughter relationship, korean canadian, reference to celine dion, Chili, chinese c
+anadian
+[QLOO API]   2. Luca (score: 0.908)
+[QLOO API]      Tags: disguised as a human, male protagonist, father son relationship, fish, computer animation
+[QLOO API]   3. Elemental (score: 0.901)
+[QLOO API]      Tags: 3d animation, bubble, teen romance, cg animation, crying
+[QLOO API]   Taste Bridge: Bridges Encanto and LUCA preferences equally
+[2025-07-29T00:25:27.627Z] Function get_recommendation completed in 1452ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:25:38.767Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Loki' }
+[QLOO API] search_entity called with query: "Loki"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Loki
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Loki (8251F3D2-36D4-4911-BF01-8CDEB6AD3BC4)
+[2025-07-29T00:25:39.383Z] Function search_entity completed in 616ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] get_recommendation called
+[2025-07-29T00:25:40.770Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '5CC36A24-A23F-4534-9609-AAE934E4EBE5,8251F3D2-36D4-4911-BF01-8CDEB6AD3BC4'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 5CC36A24-A23F-4534-9609-AAE934E4EBE5,8251F3D2-36D4-4911-BF01-8CDEB6AD3BC4
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. The New Adventures of Old Christine (score: 0.913)
+[QLOO API]      Tags: sitcom comedy, gym, Google Play Movies, HBO Max, female protagonist
+[QLOO API]   2. She-Hulk: Attorney at Law (score: 0.911)
+[QLOO API]      Tags: lawyer as protagonist, feminism, she hulk character, campy, female lawyer
+[QLOO API]   3. Peacemaker (score: 0.910)
+[QLOO API]      Tags: tough guy, racial slur, Vudu, wavve, action hero
+[QLOO API]   Taste Bridge: Bridges LUCA and Loki preferences equally
+[2025-07-29T00:25:41.294Z] Function get_recommendation completed in 524ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:25:59.839Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Nobody' }
+[QLOO API] search_entity called with query: "Nobody"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Nobody
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Nobody (E2A22457-0DC0-43E0-AC0C-F4D34092DB03)
+[2025-07-29T00:26:00.427Z] Function search_entity completed in 588ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:26:01.611Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Fatherhood' }
+[QLOO API] search_entity called with query: "Fatherhood"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Fatherhood
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Fatherhood (4A01F2FA-4549-4BFC-AFCE-58B8698096E0)
+[2025-07-29T00:26:01.784Z] Function search_entity completed in 173ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] get_recommendation called
+[2025-07-29T00:26:03.097Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'E2A22457-0DC0-43E0-AC0C-F4D34092DB03',
+  tag_ids: '4A01F2FA-4549-4BFC-AFCE-58B8698096E0'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: E2A22457-0DC0-43E0-AC0C-F4D34092DB03
+[QLOO API]   Tag IDs: 4A01F2FA-4549-4BFC-AFCE-58B8698096E0
+[QLOO API]   Output type: undefined
+[QLOO API]   Using tag signals: 4A01F2FA-4549-4BFC-AFCE-58B8698096E0
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Wrath of Man (score: 0.871)
+[QLOO API]      Tags: Kino on Demand, gender in title, semi automatic weapon, Rakuten TV, Paramount+ Amazon Cha
+nnel
+[QLOO API]   2. The Guilty (score: 0.860)
+[QLOO API]      Tags: Drama, american remake of an european film, telephone call, stuttering, 2020s
+[QLOO API]   3. Kate (score: 0.859)
+[QLOO API]      Tags: Netflix, neo noir, subjective camera, vomiting, revenge
+[QLOO API]   Taste Bridge: Strong match for Nobody fans (100% affinity)
+[2025-07-29T00:26:04.682Z] Function get_recommendation completed in 1585ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] error for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:26:25.950Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Banishing' }
+[QLOO API] search_entity called with query: "The Banishing"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Banishing
+[QLOO API] [QLOO API] Response: 200, found 16 results
+[QLOO API] [QLOO API] Returning: The Banishing (DC6BFBD3-2F01-4CB5-846C-18020EA62049)
+[2025-07-29T00:26:26.415Z] Function search_entity completed in 465ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] get_recommendation called
+[2025-07-29T00:26:29.467Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '5CC36A24-A23F-4534-9609-AAE934E4EBE5,DC6BFBD3-2F01-4CB5-846C-18020EA62049'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 5CC36A24-A23F-4534-9609-AAE934E4EBE5,DC6BFBD3-2F01-4CB5-846C-18020EA62049
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Shepherd (score: 0.929)
+[QLOO API]      Tags: Horror, Chili, young, DIRECTV, Okko
+[QLOO API]   2. The Feast (score: 0.927)
+[QLOO API]      Tags: member of parliament, business deal, shaving, freckles, arthouse film
+[QLOO API]   3. Lucky (score: 0.926)
+[QLOO API]      Tags: Videobuster, Universcine, open interpretation, psychological, Rakuten TV
+[QLOO API]   Taste Bridge: Bridges The Banishing and LUCA preferences equally
+[2025-07-29T00:26:31.142Z] Function get_recommendation completed in 1675ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] error for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:26:58.709Z] Starting function call: search_entity
+Calling function: search_entity { query: 'F9' }
+[QLOO API] search_entity called with query: "F9"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=F9
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Fate of the Furious (F31BAD7A-0B71-4FD6-A446-D37EA7FEF8C8)
+[2025-07-29T00:26:59.331Z] Function search_entity completed in 622ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] search_entity called
+[2025-07-29T00:27:00.647Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Babysitter' }
+[QLOO API] search_entity called with query: "The Babysitter"
+[QLOO API] [CACHE HIT] Found in cache: The Babysitter (8CBEFAD1-4E65-41F0-975F-2B36FBFC1E5F)
+[2025-07-29T00:27:00.649Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[Function] get_recommendation called
+[2025-07-29T00:27:01.954Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'F31BAD7A-0B71-4FD6-A446-D37EA7FEF8C8,8CBEFAD1-4E65-41F0-975F-2B36FBFC1E5F'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: F31BAD7A-0B71-4FD6-A446-D37EA7FEF8C8,8CBEFAD1-4E65-41F0-975F-2B36FBFC1E5F
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Happy Death Day (score: 0.930)
+[QLOO API]      Tags: alternate reality, Rakuten TV, Globoplay, masked villain, TV 2 Play
+[QLOO API]   2. Death Note (score: 0.919)
+[QLOO API]      Tags: mass death, falling down stairs, Netflix basic with Ads, based on manga, near death exper
+ience
+[QLOO API]   3. John Wick: Chapter 2 (score: 0.915)
+[QLOO API]      Tags: character name in title, violence, Starz Amazon Channel, motorcycle crash, HBO Max
+[QLOO API]   Taste Bridge: Bridges The Babysitter and The Fate of the Furious preferences equally
+[2025-07-29T00:27:03.588Z] Function get_recommendation completed in 1634ms
+[Model] response.output_item.done for session: MZ4d7170023227bcca701e1c98e45cfdd6
+[SessionManager] Call disconnected: MZ4d7170023227bcca701e1c98e45cfdd6
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Model] error for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Model] response.output_item.done for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Model] response.output_item.done for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Function] search_entity called
+[2025-07-29T00:27:48.282Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Darknet Diaries' }
+[QLOO API] search_entity called with query: "Darknet Diaries"
+[QLOO API] [CACHE HIT] Found in cache: Darknet Diaries (95E640FA-4EC9-482E-A8E0-84AD7D41DE25)
+[2025-07-29T00:27:48.284Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Function] search_entity called
+[2025-07-29T00:27:48.829Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Serial' }
+[QLOO API] search_entity called with query: "Serial"
+[QLOO API] [CACHE HIT] Found in cache: Serial (E5C5D02D-C5E1-4189-BF91-FD1A2E0EEF06)
+[2025-07-29T00:27:48.831Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[Function] get_recommendation called
+[2025-07-29T00:27:49.669Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '95E640FA-4EC9-482E-A8E0-84AD7D41DE25,E5C5D02D-C5E1-4189-BF91-FD1A2E0EEF06',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 95E640FA-4EC9-482E-A8E0-84AD7D41DE25,E5C5D02D-C5E1-4189-BF91-FD1A2E0EEF06
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Alpha House (score: 0.908)
+[QLOO API]      Tags: politics, political drama, Drama, Amazon Prime Video, Comedy
+[QLOO API]   2. Battleground (score: 0.907)
+[QLOO API]      Tags: behind the scenes, Apple TV, Comedy, Discovery Plus, satire comedy
+[QLOO API]   3. Happyish (score: 0.905)
+[QLOO API]      Tags: Showtime Apple TV Channel, Vudu, Tele2 Play, Amazon Video, Sky X
+[QLOO API]   Taste Bridge: Bridges Serial and Darknet Diaries preferences equally
+[2025-07-29T00:27:50.491Z] Function get_recommendation completed in 822ms
+[Model] response.output_item.done for session: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[SessionManager] Call disconnected: MZ3c5d6fa16d3a18cb4e2d11c9a29fc6b1
+[SessionManager] Active sessions: 0
+[nodemon] restarting due to changes...
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 22 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+^C
+streetmeat@jetson:~/qloo/qloophone-backend$ PUBLIC_URL=https://8272c86a3b11.ngrok-free.app npm run dev
+
+> qloophone-backend@1.0.0 dev
+> nodemon src/server.ts
+
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): src/**/*
+[nodemon] watching extensions: ts,js
+[nodemon] starting `ts-node src/server.ts src/server.ts`
+[EntityCache] Loaded 22 entities from disk
+[QLOO API] === Function handlers initialized ===
+[QLOO API] API URL: https://hackathon.api.qloo.com
+[QLOO API] API Key: Set
+Server running on http://localhost:8081
+Cache stats endpoint: http://localhost:8081/cache-stats
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ07d67ce81919bea4c981f65f6e9dbe3d, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] error for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[Model] response.output_item.done for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[Model] response.output_item.done for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[Function] search_entity called
+[2025-07-29T00:36:04.664Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Danny Brown' }
+[QLOO API] search_entity called with query: "Danny Brown"
+[QLOO API] [CACHE HIT] Found in cache: Danny Brown (82B297F2-E18D-4FE6-B23D-23D90E3BE55A)
+[2025-07-29T00:36:04.669Z] Function search_entity completed in 5ms
+[Model] response.output_item.done for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[Function] search_entity called
+[2025-07-29T00:36:05.364Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Darknet Diaries' }
+[QLOO API] search_entity called with query: "Darknet Diaries"
+[QLOO API] [CACHE HIT] Found in cache: Darknet Diaries (95E640FA-4EC9-482E-A8E0-84AD7D41DE25)
+[2025-07-29T00:36:05.366Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[Function] get_recommendation called
+[2025-07-29T00:36:06.504Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '82B297F2-E18D-4FE6-B23D-23D90E3BE55A,95E640FA-4EC9-482E-A8E0-84AD7D41DE25'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 82B297F2-E18D-4FE6-B23D-23D90E3BE55A,95E640FA-4EC9-482E-A8E0-84AD7D41DE25
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Run the Jewels (score: 0.909)
+[QLOO API]      Tags: Underground Hip Hop, Hip - Hop, Rap
+[QLOO API]      Influence: Danny Brown (62%), Darknet Diaries (38%)
+[QLOO API]   2. clipping. (score: 0.878)
+[QLOO API]      Tags: Rap, Hip - Hop, Experimental, Noise, Experimental Hip Hop
+[QLOO API]      Influence: Danny Brown (62%), Darknet Diaries (38%)
+[QLOO API]   3. Death Grips (score: 0.869)
+[QLOO API]      Tags: Hip - Hop, Experimental, Experimental Rap, Rap, Experimental Hip Hop
+[QLOO API]      Influence: Danny Brown (62%), Darknet Diaries (38%)
+[QLOO API]   Taste Bridge: Especially great for Danny Brown fans, with elements of Darknet Diaries
+[2025-07-29T00:36:07.102Z] Function get_recommendation completed in 598ms
+[Model] response.output_item.done for session: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[SessionManager] Call disconnected: MZ07d67ce81919bea4c981f65f6e9dbe3d
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ731155f464ccd5ebe280b26c0bb4c62a
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ731155f464ccd5ebe280b26c0bb4c62a, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Model] response.output_item.done for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Model] response.output_item.done for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Model] response.output_item.done for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Function] search_entity called
+[2025-07-29T00:36:44.595Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Danny Brown' }
+[QLOO API] search_entity called with query: "Danny Brown"
+[QLOO API] [CACHE HIT] Found in cache: Danny Brown (82B297F2-E18D-4FE6-B23D-23D90E3BE55A)
+[2025-07-29T00:36:44.600Z] Function search_entity completed in 5ms
+[Model] response.output_item.done for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Function] search_entity called
+[2025-07-29T00:36:45.023Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Best in Show' }
+[QLOO API] search_entity called with query: "Best in Show"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Best%20in%20Show
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Best In Show (A8715EAB-6DA1-4BA5-A84B-FB4BA343592C)
+[2025-07-29T00:36:47.415Z] Function search_entity completed in 2392ms
+⚠️ SLOW FUNCTION: search_entity took 2392ms
+[Model] response.output_item.done for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[Function] get_recommendation called
+[2025-07-29T00:36:48.357Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '82B297F2-E18D-4FE6-B23D-23D90E3BE55A,A8715EAB-6DA1-4BA5-A84B-FB4BA343592C',
+  output_type: 'urn:entity:podcast'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 82B297F2-E18D-4FE6-B23D-23D90E3BE55A,A8715EAB-6DA1-4BA5-A84B-FB4BA343592C
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:podcast
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Bodega Boys (score: 0.925)
+[QLOO API]      Tags: Podcasts, Comedy
+[QLOO API]      Influence: Danny Brown (100%)
+[QLOO API]   2. Hannibal Buress (score: 0.910)
+[QLOO API]      Tags: Comedy, Podcasts
+[QLOO API]      Influence: Danny Brown (100%)
+[QLOO API]   3. Monday Morning Podcast (score: 0.910)
+[QLOO API]      Tags: Comedy, Podcasts
+[QLOO API]      Influence: Danny Brown (100%)
+[QLOO API]   Taste Bridge: Strong match for Danny Brown fans (100% affinity)
+[2025-07-29T00:36:48.560Z] Function get_recommendation completed in 202ms
+[Model] response.output_item.done for session: MZ731155f464ccd5ebe280b26c0bb4c62a
+[SessionManager] Call disconnected: MZ731155f464ccd5ebe280b26c0bb4c62a
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ12c7c796dd2ee6583759aa429767f0a8
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ12c7c796dd2ee6583759aa429767f0a8, starting OpenAI session...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_venues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Model] response.output_item.done for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Model] response.output_item.done for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Function] search_entity called
+[2025-07-29T00:37:52.316Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Danny Brown' }
+[QLOO API] search_entity called with query: "Danny Brown"
+[QLOO API] [CACHE HIT] Found in cache: Danny Brown (82B297F2-E18D-4FE6-B23D-23D90E3BE55A)
+[2025-07-29T00:37:52.318Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Function] search_entity called
+[2025-07-29T00:37:53.184Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Marley & Me' }
+[QLOO API] search_entity called with query: "Marley & Me"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Marley%20%26%20Me
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Marley & Me (1EB7BC58-738E-483A-9EB3-C165D1A85DE7)
+[2025-07-29T00:37:53.912Z] Function search_entity completed in 728ms
+[Model] response.output_item.done for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Function] get_recommendation called
+[2025-07-29T00:37:54.985Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '82B297F2-E18D-4FE6-B23D-23D90E3BE55A,1EB7BC58-738E-483A-9EB3-C165D1A85DE7'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 82B297F2-E18D-4FE6-B23D-23D90E3BE55A,1EB7BC58-738E-483A-9EB3-C165D1A85DE7
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: undefined
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Kanye West (score: 0.877)
+[QLOO API]      Tags: Hip - Hop, Rap, Rhythm & Blues
+[QLOO API]      Influence: Danny Brown (59%), Marley & Me (41%)
+[QLOO API]   2. Kid Cudi (score: 0.861)
+[QLOO API]      Tags: Alternative Rap, Hip - Hop, House, Rap
+[QLOO API]      Influence: Danny Brown (59%), Marley & Me (41%)
+[QLOO API]   3. B.o.B (score: 0.861)
+[QLOO API]      Tags: Hip - Hop, Atlanta, Dirty South, Rap
+[QLOO API]      Influence: Danny Brown (54%), Marley & Me (46%)
+[QLOO API]   Taste Bridge: Bridges Danny Brown and Marley & Me preferences equally
+[2025-07-29T00:37:55.192Z] Function get_recommendation completed in 207ms
+[Model] response.output_item.done for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Model] error for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[Model] response.output_item.done for session: MZ12c7c796dd2ee6583759aa429767f0a8
+[SessionManager] Call disconnected: MZ12c7c796dd2ee6583759aa429767f0a8
+[SessionManager] Active sessions: 0
+

@@ -1,0 +1,47 @@
+services:
+  # Backend WebSocket Server
+  - type: web
+    name: qloophone-backend
+    env: docker
+    repo: https://github.com/streetmeat/qloophone
+    dockerfilePath: ./qloophone-backend/Dockerfile
+    rootDir: qloophone-backend
+    region: oregon
+    plan: free
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 8081
+      - key: OPENAI_API_KEY
+        sync: false # Add in Render dashboard after deployment
+      - key: QLOO_API_KEY
+        sync: false # Add in Render dashboard after deployment
+      - key: QLOO_API_URL
+        value: https://hackathon.api.qloo.com
+      - key: PUBLIC_URL
+        fromService:
+          type: web
+          name: qloophone-backend
+          property: host # Auto-populates with Render URL
+    
+  # Monitor UI - Real-time dashboard
+  - type: web
+    name: qloophone-monitor
+    env: docker
+    repo: https://github.com/streetmeat/qloophone
+    dockerfilePath: ./qloophone-monitor/Dockerfile
+    rootDir: qloophone-monitor
+    region: oregon
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 3001
+      - key: NEXT_PUBLIC_BACKEND_URL
+        fromService:
+          type: web
+          name: qloophone-backend
+          property: host # Auto-links to backend service

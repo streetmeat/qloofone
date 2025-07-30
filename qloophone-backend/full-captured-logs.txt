@@ -1,0 +1,955 @@
+search_entity completed in 615ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:50:59.000Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Casablanca' }
+[QLOO API] search_entity called with query: "Casablanca"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Casablanca
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Casablanca (11FB3D67-EE2C-4681-9521-363B588B6184)
+[2025-07-29T01:50:59.353Z] Function search_entity completed in 353ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:51:00.678Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '0DFC24E8-3417-4FF8-A3B6-A32A3E016726,11FB3D67-EE2C-4681-9521-363B588B6184',
+  output_type: 'urn:entity:movie'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 0DFC24E8-3417-4FF8-A3B6-A32A3E016726,11FB3D67-EE2C-4681-9521-363B588
+B6184
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:movie
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. It's a Wonderful Life (score: 0.920)
+[QLOO API]      Tags: Tivify, christmas carol, world war two, squirrel, rainstorm
+[QLOO API]      Influence: Casablanca (65%), Doctor Dolittle (35%)
+[QLOO API]   2. The Apartment (score: 0.907)
+[QLOO API]      Tags: Comedy, rolodex, Amazon Prime Video, overdose of sleeping pills, spaghe
+tti
+[QLOO API]      Influence: Casablanca (64%), Doctor Dolittle (36%)
+[QLOO API]   3. Some Like It Hot (score: 0.906)
+[QLOO API]      Tags: organized crime, Comedy, shootout, More TV, wig
+[QLOO API]      Influence: Casablanca (64%), Doctor Dolittle (36%)
+[QLOO API]   Taste Bridge: Especially great for Casablanca fans, with elements of Doctor Doli
+ttle
+[2025-07-29T01:51:02.102Z] Function get_recommendation completed in 1424ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:52:43.861Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Marley & Me' }
+[QLOO API] search_entity called with query: "Marley & Me"
+[QLOO API] [CACHE HIT] Found in cache: Marley & Me (1EB7BC58-738E-483A-9EB3-C165D1A85DE7)
+[2025-07-29T01:52:43.863Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:52:45.810Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Homeward Bound' }
+[QLOO API] search_entity called with query: "Homeward Bound"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Homeward%20B
+ound
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Krym. Put na Rodinu (32C5B9B6-6A5F-4C8A-8B74-A20A95BF2C23)
+[2025-07-29T01:52:46.360Z] Function search_entity completed in 550ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:52:48.564Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '1EB7BC58-738E-483A-9EB3-C165D1A85DE7,32C5B9B6-6A5F-4C8A-8B74-A20A95BF2C23',
+  output_type: 'urn:entity:movie'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 1EB7BC58-738E-483A-9EB3-C165D1A85DE7,32C5B9B6-6A5F-4C8A-8B74-A20A95B
+F2C23
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:movie
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. My Sister's Keeper (score: 0.886)
+[QLOO API]      Tags: Netflix basic with Ads, Amazon Prime Video, death of child, scrapbook,
+Rakuten TV
+[QLOO API]      Influence: Marley & Me (100%)
+[QLOO API]   2. The Devil Wears Prada (score: 0.867)
+[QLOO API]      Tags: pet dog, Freevee, Movistar Play, watching tv, Sky Store
+[QLOO API]      Influence: Marley & Me (100%)
+[QLOO API]   3. Cheaper by the Dozen (score: 0.865)
+[QLOO API]      Tags: matronizing, AMC on Demand, stadium, jogging, Movistar Play
+[QLOO API]      Influence: Marley & Me (100%)
+[QLOO API]   Taste Bridge: Strong match for Marley & Me fans (100% affinity)
+[2025-07-29T01:52:50.022Z] Function get_recommendation completed in 1458ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:53:25.576Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Marley & Me' }
+[QLOO API] search_entity called with query: "Marley & Me"
+[QLOO API] [CACHE HIT] Found in cache: Marley & Me (1EB7BC58-738E-483A-9EB3-C165D1A85DE7)
+[2025-07-29T01:53:25.577Z] Function search_entity completed in 1ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:53:27.058Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Strokes' }
+[QLOO API] search_entity called with query: "The Strokes"
+[QLOO API] [CACHE HIT] Found in cache: The Strokes (1A44C04F-7251-4809-809B-6C885FFD68EB)
+[2025-07-29T01:53:27.059Z] Function search_entity completed in 1ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:53:28.933Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '1EB7BC58-738E-483A-9EB3-C165D1A85DE7,1A44C04F-7251-4809-809B-6C885FFD68EB',
+  output_type: 'urn:entity:movie'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 1EB7BC58-738E-483A-9EB3-C165D1A85DE7,1A44C04F-7251-4809-809B-6C885FF
+D68EB
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:movie
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. 500 Days of Summer (score: 0.954)
+[QLOO API]      Tags: Kinopoisk, Movistar Plus, sharing a bed, draft beer, Horizon
+[QLOO API]      Influence: The Strokes (54%), Marley & Me (46%)
+[QLOO API]   2. Juno (score: 0.947)
+[QLOO API]      Tags: teen pregnancy, maxdome Store, Comedy, teenage protagonist, unwanted pr
+egnancy
+[QLOO API]      Influence: The Strokes (53%), Marley & Me (47%)
+[QLOO API]   3. Easy A (score: 0.935)
+[QLOO API]      Tags: female protagonist, Wink, blue TV, cheerleader, ShowMax
+[QLOO API]      Influence: Marley & Me (53%), The Strokes (47%)
+[QLOO API]   Taste Bridge: Bridges The Strokes and Marley & Me preferences equally
+[2025-07-29T01:53:30.845Z] Function get_recommendation completed in 1912ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:53:59.118Z] Starting function call: search_entity
+Calling function: search_entity { query: 'All-In Podcast' }
+[QLOO API] search_entity called with query: "All-In Podcast"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=All-In%20Pod
+cast
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Stories Podcast: A Bedtime Show for Kids of All Ages (56401B
+80-41AF-48AC-A611-72D77D640885)
+[2025-07-29T01:53:59.746Z] Function search_entity completed in 628ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:54:01.948Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Office Hours with Tim Heidecker' }
+[QLOO API] search_entity called with query: "Office Hours with Tim Heidecker"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Office%20Hou
+rs%20with%20Tim%20Heidecker
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Office Hours Live with Tim Heidecker (6E04E4FE-D8A9-437C-BC6
+2-A96044D8F322)
+[2025-07-29T01:54:02.284Z] Function search_entity completed in 336ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:54:04.229Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '56401B80-41AF-48AC-A611-72D77D640885,6E04E4FE-D8A9-437C-BC62-A96044D8F322',
+  output_type: 'urn:entity:podcast'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 56401B80-41AF-48AC-A611-72D77D640885,6E04E4FE-D8A9-437C-BC62-A96044D
+8F322
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:podcast
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. What If World - Stories for Kids (score: 0.835)
+[QLOO API]      Tags: Fiction, Kids & Family, Stories for Kids, Comedy Fiction, Podcasts
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (63%), Office
+ Hours Live with Tim Heidecker (37%)
+[QLOO API]   2. Little Stories for Tiny People: Anytime and bedtime stories for kids (score:
+0.821)
+[QLOO API]      Tags: Kids & Family, Arts, Podcasts, Stories for Kids, Books
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (64%), Office
+ Hours Live with Tim Heidecker (36%)
+[QLOO API]   3. Circle Round (score: 0.806)
+[QLOO API]      Tags: Kids & Family, Stories for Kids, Podcasts
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (65%), Office
+ Hours Live with Tim Heidecker (35%)
+[QLOO API]   Taste Bridge: Especially great for Stories Podcast: A Bedtime Show for Kids of A
+ll Ages fans, with elements of Office Hours Live with Tim Heidecker
+[2025-07-29T01:54:04.424Z] Function get_recommendation completed in 195ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:54:35.001Z] Starting function call: search_entity
+Calling function: search_entity { query: 'All-In Podcast' }
+[QLOO API] search_entity called with query: "All-In Podcast"
+[QLOO API] [CACHE HIT] Found in cache: Stories Podcast: A Bedtime Show for Kids of All Ages (
+56401B80-41AF-48AC-A611-72D77D640885)
+[2025-07-29T01:54:35.005Z] Function search_entity completed in 4ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:54:36.727Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Office Hours with Tim Heidecker' }
+[QLOO API] search_entity called with query: "Office Hours with Tim Heidecker"
+[QLOO API] [CACHE HIT] Found in cache: Office Hours Live with Tim Heidecker (6E04E4FE-D8A9-43
+7C-BC62-A96044D8F322)
+[2025-07-29T01:54:36.728Z] Function search_entity completed in 1ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:54:38.909Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '56401B80-41AF-48AC-A611-72D77D640885,6E04E4FE-D8A9-437C-BC62-A96044D8F322',
+  output_type: 'urn:entity:podcast'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 56401B80-41AF-48AC-A611-72D77D640885,6E04E4FE-D8A9-437C-BC62-A96044D
+8F322
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:podcast
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. What If World - Stories for Kids (score: 0.835)
+[QLOO API]      Tags: Fiction, Kids & Family, Stories for Kids, Comedy Fiction, Podcasts
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (63%), Office
+ Hours Live with Tim Heidecker (37%)
+[QLOO API]   2. Little Stories for Tiny People: Anytime and bedtime stories for kids (score:
+0.821)
+[QLOO API]      Tags: Kids & Family, Arts, Podcasts, Stories for Kids, Books
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (64%), Office
+ Hours Live with Tim Heidecker (36%)
+[QLOO API]   3. Circle Round (score: 0.806)
+[QLOO API]      Tags: Kids & Family, Stories for Kids, Podcasts
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (65%), Office
+ Hours Live with Tim Heidecker (35%)
+[QLOO API]   Taste Bridge: Especially great for Stories Podcast: A Bedtime Show for Kids of A
+ll Ages fans, with elements of Office Hours Live with Tim Heidecker
+[2025-07-29T01:54:39.296Z] Function get_recommendation completed in 387ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:55:06.982Z] Starting function call: search_entity
+Calling function: search_entity { query: 'All-In Podcast by Jason Calacanis' }
+[QLOO API] search_entity called with query: "All-In Podcast by Jason Calacanis"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=All-In%20Pod
+cast%20by%20Jason%20Calacanis
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Timothy Keller Sermons Podcast by Gospel in Life (C8E0A5A7-4
+45D-446C-BE1D-149D826233B7)
+[2025-07-29T01:55:07.668Z] Function search_entity completed in 686ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:55:09.844Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'C8E0A5A7-445D-446C-BE1D-149D826233B7,6E04E4FE-D8A9-437C-BC62-A96044D8F322',
+  output_type: 'urn:entity:podcast'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: C8E0A5A7-445D-446C-BE1D-149D826233B7,6E04E4FE-D8A9-437C-BC62-A96044D
+8F322
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:podcast
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Voxology (score: 0.796)
+[QLOO API]      Tags: Podcasts, Religion & Spirituality
+[QLOO API]      Influence: Timothy Keller Sermons Podcast by Gospel in Life (53%), Office Hou
+rs Live with Tim Heidecker (47%)
+[QLOO API]   2. The Village Church - Sermons (score: 0.793)
+[QLOO API]      Tags: Christianity, Religion & Spirituality, Podcasts
+[QLOO API]      Influence: Timothy Keller Sermons Podcast by Gospel in Life (60%), Office Hou
+rs Live with Tim Heidecker (40%)
+[QLOO API]   3. BibleProject (score: 0.793)
+[QLOO API]      Tags: Podcasts, Christianity, Religion & Spirituality
+[QLOO API]      Influence: Timothy Keller Sermons Podcast by Gospel in Life (63%), Office Hou
+rs Live with Tim Heidecker (37%)
+[QLOO API]   Taste Bridge: Bridges Timothy Keller Sermons Podcast by Gospel in Life and Offic
+e Hours Live with Tim Heidecker preferences equally
+[2025-07-29T01:55:10.025Z] Function get_recommendation completed in 181ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:55:34.329Z] Starting function call: search_entity
+Calling function: search_entity { query: 'All-In Podcast' }
+[QLOO API] search_entity called with query: "All-In Podcast"
+[QLOO API] [CACHE HIT] Found in cache: Stories Podcast: A Bedtime Show for Kids of All Ages (
+56401B80-41AF-48AC-A611-72D77D640885)
+[2025-07-29T01:55:34.331Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:55:36.935Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '56401B80-41AF-48AC-A611-72D77D640885,6E04E4FE-D8A9-437C-BC62-A96044D8F322',
+  output_type: 'urn:entity:podcast'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 56401B80-41AF-48AC-A611-72D77D640885,6E04E4FE-D8A9-437C-BC62-A96044D
+8F322
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:podcast
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. What If World - Stories for Kids (score: 0.835)
+[QLOO API]      Tags: Fiction, Kids & Family, Stories for Kids, Comedy Fiction, Podcasts
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (63%), Office
+ Hours Live with Tim Heidecker (37%)
+[QLOO API]   2. Little Stories for Tiny People: Anytime and bedtime stories for kids (score:
+0.821)
+[QLOO API]      Tags: Kids & Family, Arts, Podcasts, Stories for Kids, Books
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (64%), Office
+ Hours Live with Tim Heidecker (36%)
+[QLOO API]   3. Circle Round (score: 0.806)
+[QLOO API]      Tags: Kids & Family, Stories for Kids, Podcasts
+[QLOO API]      Influence: Stories Podcast: A Bedtime Show for Kids of All Ages (65%), Office
+ Hours Live with Tim Heidecker (35%)
+[QLOO API]   Taste Bridge: Especially great for Stories Podcast: A Bedtime Show for Kids of A
+ll Ages fans, with elements of Office Hours Live with Tim Heidecker
+[2025-07-29T01:55:37.304Z] Function get_recommendation completed in 369ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:55:46.829Z] Starting function call: search_entity
+Calling function: search_entity { query: 'All-In' }
+[QLOO API] search_entity called with query: "All-In"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=All-In
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: All-In (A1A12982-AB74-4292-861E-150C50DA48A0)
+[2025-07-29T01:55:47.550Z] Function search_entity completed in 721ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T01:55:49.625Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Office Hours with Tim Heidecker' }
+[QLOO API] search_entity called with query: "Office Hours with Tim Heidecker"
+[QLOO API] [CACHE HIT] Found in cache: Office Hours Live with Tim Heidecker (6E04E4FE-D8A9-43
+7C-BC62-A96044D8F322)
+[2025-07-29T01:55:49.626Z] Function search_entity completed in 1ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:55:52.205Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'A1A12982-AB74-4292-861E-150C50DA48A0,6E04E4FE-D8A9-437C-BC62-A96044D8F322',
+  output_type: 'urn:entity:podcast'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: A1A12982-AB74-4292-861E-150C50DA48A0,6E04E4FE-D8A9-437C-BC62-A96044D
+8F322
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:podcast
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Here's The Thing with Alec Baldwin (score: 0.836)
+[QLOO API]      Tags: Arts, Podcasts, Performing Arts, Music, Music Interviews
+[QLOO API]      Influence: All-In (63%), Office Hours Live with Tim Heidecker (37%)
+[QLOO API]   2. WTF with Marc Maron Podcast (score: 0.818)
+[QLOO API]      Tags: Comedy, Podcasts
+[QLOO API]      Influence: All-In (53%), Office Hours Live with Tim Heidecker (47%)
+[QLOO API]   3. Fantastic! With Dana Carvey (score: 0.815)
+[QLOO API]      Influence: All-In (54%), Office Hours Live with Tim Heidecker (46%)
+[QLOO API]   Taste Bridge: Especially great for All-In fans, with elements of Office Hours Li
+ve with Tim Heidecker
+[2025-07-29T01:55:52.595Z] Function get_recommendation completed in 390ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:56:13.757Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '1C3709B7-9BD7-4468-BE13-D33820D8ACAF,6E04E4FE-D8A9-437C-BC62-A96044D8F322',
+  output_type: 'urn:entity:celebrity'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 1C3709B7-9BD7-4468-BE13-D33820D8ACAF,6E04E4FE-D8A9-437C-BC62-A96044D
+8F322
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:celebrity
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Julia Louis-Dreyfus (score: 0.967)
+[QLOO API]      Tags: Actresses From Maryland, American People Of German Descent, Person, Ame
+rican Sketch Comedians, California Democrats
+[QLOO API]      Influence: Office Hours Live with Tim Heidecker (51%)
+[QLOO API]   2. Pamela Adlon (score: 0.954)
+[QLOO API]      Tags: 21st-century American Jews, Writers Guild Of America Award Winners, Pri
+metime Emmy Award Winners, 21st-century American Actresses, Actor
+[QLOO API]      Influence: Office Hours Live with Tim Heidecker (50%)
+[QLOO API]   3. Maya Rudolph (score: 0.932)
+[QLOO API]      Tags: Jewish American Comedians, Sci-fi, 20th-century American Comedians, 20t
+h-century American Jews, 21st-century American Jews
+[QLOO API]      Influence: Office Hours Live with Tim Heidecker (51%)
+[QLOO API]   Taste Bridge: Strong match for Office Hours Live with Tim Heidecker fans (51% af
+finity)
+[2025-07-29T01:56:14.312Z] Function get_recommendation completed in 555ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:56:48.622Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'FB918B11-6501-46FC-9EE3-8414D687CECB,6C90DBC5-1B1B-4ADB-8D72-F3E99EF3E613',
+  output_type: 'urn:entity:celebrity'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: FB918B11-6501-46FC-9EE3-8414D687CECB,6C90DBC5-1B1B-4ADB-8D72-F3E99EF
+3E613
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:celebrity
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Maya Rudolph (score: 0.952)
+[QLOO API]      Tags: Jewish American Comedians, Sci-fi, 20th-century American Comedians, 20t
+h-century American Jews, 21st-century American Jews
+[QLOO API]   2. Pamela Adlon (score: 0.942)
+[QLOO API]      Tags: 21st-century American Jews, Writers Guild Of America Award Winners, Pri
+metime Emmy Award Winners, 21st-century American Actresses, Actor
+[QLOO API]   3. Colin Jost (score: 0.939)
+[QLOO API]      Tags: 21st-century American Comedians, American Male Television Writers, Come
+dian, American Stand-up Comedians, Director
+[2025-07-29T01:56:49.142Z] Function get_recommendation completed in 520ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:58:18.158Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'B8C7C5E8-1A0A-4D1E-A36B-9A4B4D24F5D7,5A1C5E69-2C2A-4E9F-9B2C-8A1AFAF8C7F2',
+  output_type: 'urn:entity:celebrity'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: B8C7C5E8-1A0A-4D1E-A36B-9A4B4D24F5D7,5A1C5E69-2C2A-4E9F-9B2C-8A1AFAF
+8C7F2
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:celebrity
+[QLOO API] Insights failed, trying recommendations endpoint...
+[QLOO API] Error: Both endpoints failed. Status: 400
+[2025-07-29T01:58:18.820Z] Function get_recommendation completed in 662ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:59:19.857Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'B8C7C5E8-1A0A-4D1E-A36B-9A4B4D24F5D7,5A1C5E69-2C2A-4E9F-9B2C-8A1AFAF8C7F2',
+  output_type: 'urn:entity:celebrity'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: B8C7C5E8-1A0A-4D1E-A36B-9A4B4D24F5D7,5A1C5E69-2C2A-4E9F-9B2C-8A1AFAF
+8C7F2
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:celebrity
+[QLOO API] Insights failed, trying recommendations endpoint...
+[QLOO API] Error: Both endpoints failed. Status: 400
+[2025-07-29T01:59:20.492Z] Function get_recommendation completed in 635ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T01:59:38.462Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '9CFE6D9A-3B5C-4DC4-B6D2-21E1C17A3B91,2F1A3B8D-1A1C-4A9E-9A08-6A4E5F3F2A1D',
+  output_type: 'urn:entity:celebrity'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 9CFE6D9A-3B5C-4DC4-B6D2-21E1C17A3B91,2F1A3B8D-1A1C-4A9E-9A08-6A4E5F3
+F2A1D
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:celebrity
+[QLOO API] Insights failed, trying recommendations endpoint...
+[QLOO API] Error: Both endpoints failed. Status: 400
+[2025-07-29T01:59:39.065Z] Function get_recommendation completed in 603ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T02:00:06.897Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Italian Job' }
+[QLOO API] search_entity called with query: "The Italian Job"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Italia
+n%20Job
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Italian Job (49C80243-FA85-44A1-8610-D05CADFA8314)
+[2025-07-29T02:00:07.604Z] Function search_entity completed in 707ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T02:00:11.088Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Shining' }
+[QLOO API] search_entity called with query: "The Shining"
+[QLOO API] [CACHE HIT] Found in cache: The Shining (1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1)
+[2025-07-29T02:00:11.089Z] Function search_entity completed in 1ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T02:00:14.470Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '49C80243-FA85-44A1-8610-D05CADFA8314,1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1',
+  output_type: 'urn:entity:movie'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 49C80243-FA85-44A1-8610-D05CADFA8314,1318E55A-C4AD-48C0-8696-8CDC2CB
+EDDA1
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:movie
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. The Silence of the Lambs (score: 0.949)
+[QLOO API]      Tags: Amazon Video, psychological horror, Cineplex, based on ed gein, Timvisi
+on
+[QLOO API]      Influence: The Shining (58%), The Italian Job (42%)
+[QLOO API]   2. Se7en (score: 0.946)
+[QLOO API]      Tags: good versus evil, Netflix basic with Ads, decapitation, Vudu, Blockbust
+er
+[QLOO API]      Influence: The Shining (56%), The Italian Job (44%)
+[QLOO API]   3. The Departed (score: 0.937)
+[QLOO API]      Tags: scene of the crime, dTV, evil man, Player, Sky
+[QLOO API]      Influence: The Shining (54%), The Italian Job (46%)
+[QLOO API]   Taste Bridge: Bridges The Shining and The Italian Job preferences equally
+[2025-07-29T02:00:16.320Z] Function get_recommendation completed in 1850ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] error for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] search_entity called
+[2025-07-29T02:01:11.937Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Super Troopers' }
+[QLOO API] search_entity called with query: "Super Troopers"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Super%20Troo
+pers
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Super Troopers (6B4A90A5-D8A2-4E81-B1EF-E5F3201C7663)
+[2025-07-29T02:01:12.554Z] Function search_entity completed in 617ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[Function] get_recommendation called
+[2025-07-29T02:01:16.111Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1,6B4A90A5-D8A2-4E81-B1EF-E5F3201C7663',
+  output_type: 'urn:entity:movie'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1,6B4A90A5-D8A2-4E81-B1EF-E5F3201
+C7663
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:movie
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. The Big Lebowski (score: 0.926)
+[QLOO API]      Tags: Microsoft Store, oriental rug, vandalism, Amazon Video, Cinépolis KLIC
+[QLOO API]      Influence: The Shining (54%), Super Troopers (46%)
+[QLOO API]   2. American Psycho (score: 0.908)
+[QLOO API]      Tags: Amazon Video, maxdome Store, Spectrum On Demand, HBO Max, Blockbuster
+[QLOO API]      Influence: The Shining (53%), Super Troopers (47%)
+[QLOO API]   3. Reservoir Dogs (score: 0.901)
+[QLOO API]      Tags: Joyn Plus, cigar smoking, neo noir, undercover cop, held at gunpoint
+[QLOO API]      Influence: The Shining (58%), Super Troopers (42%)
+[QLOO API]   Taste Bridge: Bridges The Shining and Super Troopers preferences equally
+[2025-07-29T02:01:17.523Z] Function get_recommendation completed in 1412ms
+[Model] response.output_item.done for session: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[SessionManager] Call disconnected: MZ22b82f6bdd4cfe2d59e45a356cb348a1
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ49c8ddd5c7219669323f9c45d86098d2
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ49c8ddd5c7219669323f9c45d86098d2, starting OpenAI ses
+sion...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_ven
+ues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ49c8ddd5c7219669323f9c45d86098d2
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ49c8ddd5c7219669323f9c45d86098d2
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] error for session: MZ49c8ddd5c7219669323f9c45d86098d2
+[Model] response.output_item.done for session: MZ49c8ddd5c7219669323f9c45d86098d2
+[SessionManager] Call disconnected: MZ49c8ddd5c7219669323f9c45d86098d2
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ131937f07508437d90b6142396a3c9c5
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ131937f07508437d90b6142396a3c9c5, starting OpenAI ses
+sion...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_ven
+ues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ131937f07508437d90b6142396a3c9c5
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ131937f07508437d90b6142396a3c9c5
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] error for session: MZ131937f07508437d90b6142396a3c9c5
+[Model] response.output_item.done for session: MZ131937f07508437d90b6142396a3c9c5
+[SessionManager] Call disconnected: MZ131937f07508437d90b6142396a3c9c5
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZf2038984d176b67af8253cbde711000f
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZf2038984d176b67af8253cbde711000f, starting OpenAI ses
+sion...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_ven
+ues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZf2038984d176b67af8253cbde711000f
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZf2038984d176b67af8253cbde711000f
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZf2038984d176b67af8253cbde711000f
+[Model] error for session: MZf2038984d176b67af8253cbde711000f
+[Model] response.output_item.done for session: MZf2038984d176b67af8253cbde711000f
+[SessionManager] Call disconnected: MZf2038984d176b67af8253cbde711000f
+[SessionManager] Active sessions: 0
+[SessionManager] Queuing connected event until streamSid is available
+[SessionManager] New call connected: MZ995dfde8b352855f104a3f1f26d4b2a8
+[SessionManager] Active sessions: 1
+[SessionManager] Processing 1 queued messages
+[SessionManager] Twilio connected for MZ995dfde8b352855f104a3f1f26d4b2a8, starting OpenAI ses
+sion...
+[OpenAI] Config: { voice: 'ash', hasTools: false, instructionsLength: 0 }
+[OpenAI] Loading 4 functions: search_entity, search_locality, get_recommendation, get_fan_ven
+ues
+[OpenAI] Session configured: { voice: 'ash', tools: 4 }
+[Model] session.created for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Session] Created with voice: alloy tools: 0
+[Model] session.updated for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Session] Updated - ready to greet
+[Session] Triggering greeting with tools loaded...
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] search_entity called
+[2025-07-29T02:14:04.785Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Office' }
+[QLOO API] search_entity called with query: "The Office"
+[QLOO API] [CACHE HIT] Found in cache: The Office (E5AE1F26-04CB-4CDD-BBA4-87FB6541F848)
+[2025-07-29T02:14:04.786Z] Function search_entity completed in 1ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] search_entity called
+[2025-07-29T02:14:06.771Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Shining' }
+[QLOO API] search_entity called with query: "The Shining"
+[QLOO API] [CACHE HIT] Found in cache: The Shining (1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1)
+[2025-07-29T02:14:06.773Z] Function search_entity completed in 2ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:14:08.804Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'E5AE1F26-04CB-4CDD-BBA4-87FB6541F848,1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: E5AE1F26-04CB-4CDD-BBA4-87FB6541F848,1318E55A-C4AD-48C0-8696-8CDC2CB
+EDDA1
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Ghosted (score: 0.920)
+[QLOO API]      Tags: team up, female boss, Mystery, da investigation, Tele2 Play
+[QLOO API]      Influence: The Shining (57%), The Office (43%)
+[QLOO API]   2. Santa Clarita Diet (score: 0.914)
+[QLOO API]      Tags: realtor, male and female protagonists, latina lesbian, teenage girl, fr
+iendship between women
+[QLOO API]      Influence: The Shining (55%), The Office (45%)
+[QLOO API]   3. The Watcher (score: 0.911)
+[QLOO API]      Tags: woman with pigtails, big sister little brother relationship, house, bas
+ed on true story, Horror
+[QLOO API]      Influence: The Shining (56%), The Office (44%)
+[QLOO API]   Taste Bridge: Bridges The Shining and The Office preferences equally
+[2025-07-29T02:14:09.672Z] Function get_recommendation completed in 868ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] search_entity called
+[2025-07-29T02:14:53.135Z] Starting function call: search_entity
+Calling function: search_entity { query: 'The Killers' }
+[QLOO API] search_entity called with query: "The Killers"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=The%20Killer
+s
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: The Killers (9F1FC72B-9B11-4D17-8848-FBCC57442B0B)
+[2025-07-29T02:14:53.709Z] Function search_entity completed in 574ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:14:55.917Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1,9F1FC72B-9B11-4D17-8848-FBCC57442B0B',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 1318E55A-C4AD-48C0-8696-8CDC2CBEDDA1,9F1FC72B-9B11-4D17-8848-FBCC574
+42B0B
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Falling Water (score: 0.967)
+[QLOO API]      Tags: Amazon Video, Thriller, Telia Play, magical realism, stranger
+[QLOO API]      Influence: The Shining (51%), The Killers (49%)
+[QLOO API]   2. Mr. Mercedes (score: 0.959)
+[QLOO API]      Tags: fire, Strim, Club Illico, Microsoft Store, Netflix basic with Ads
+[QLOO API]      Influence: The Shining (51%), The Killers (49%)
+[QLOO API]   3. The Family (score: 0.959)
+[QLOO API]      Tags: Sky Go, lie, Foxtel Now, Drama, missing child
+[QLOO API]      Influence: The Shining (51%), The Killers (49%)
+[QLOO API]   Taste Bridge: Bridges The Shining and The Killers preferences equally
+[2025-07-29T02:14:56.432Z] Function get_recommendation completed in 515ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:15:22.152Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '9F1FC72B-9B11-4D17-8848-FBCC57442B0B,E97A7E85-9C8B-41A2-8BB6-7D3B8B8C4F1F',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 9F1FC72B-9B11-4D17-8848-FBCC57442B0B,E97A7E85-9C8B-41A2-8BB6-7D3B8B8
+C4F1F
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. The Leftovers (score: 0.973)
+[QLOO API]      Tags: 2010s, Telenet, missing person, 21st century, community drama
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   2. Bloodline (score: 0.948)
+[QLOO API]      Tags: drowned, return home, family business, psychological thriller, death of
+ child
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   3. The Killing (score: 0.941)
+[QLOO API]      Tags: Crime, psychological thriller, female detective, hardball politics, App
+le TV
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   Taste Bridge: Strong match for The Killers fans (100% affinity)
+[2025-07-29T02:15:23.028Z] Function get_recommendation completed in 876ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:15:40.095Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '9F1FC72B-9B11-4D17-8848-FBCC57442B0B,E97A7E85-9C8B-41A2-8BB6-7D3B8B8C4F1F',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 9F1FC72B-9B11-4D17-8848-FBCC57442B0B,E97A7E85-9C8B-41A2-8BB6-7D3B8B8
+C4F1F
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. The Leftovers (score: 0.973)
+[QLOO API]      Tags: 2010s, Telenet, missing person, 21st century, community drama
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   2. Bloodline (score: 0.948)
+[QLOO API]      Tags: drowned, return home, family business, psychological thriller, death of
+ child
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   3. The Killing (score: 0.941)
+[QLOO API]      Tags: Crime, psychological thriller, female detective, hardball politics, App
+le TV
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   Taste Bridge: Strong match for The Killers fans (100% affinity)
+[2025-07-29T02:15:40.950Z] Function get_recommendation completed in 855ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:15:57.863Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '9F1FC72B-9B11-4D17-8848-FBCC57442B0B,FD4B18C6-6B3A-4A45-B9F4-1A5C2AFA2A68',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 9F1FC72B-9B11-4D17-8848-FBCC57442B0B,FD4B18C6-6B3A-4A45-B9F4-1A5C2AF
+A2A68
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. The Leftovers (score: 0.973)
+[QLOO API]      Tags: 2010s, Telenet, missing person, 21st century, community drama
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   2. Bloodline (score: 0.948)
+[QLOO API]      Tags: drowned, return home, family business, psychological thriller, death of
+ child
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   3. The Killing (score: 0.941)
+[QLOO API]      Tags: Crime, psychological thriller, female detective, hardball politics, App
+le TV
+[QLOO API]      Influence: The Killers (100%)
+[QLOO API]   Taste Bridge: Strong match for The Killers fans (100% affinity)
+[2025-07-29T02:15:58.730Z] Function get_recommendation completed in 867ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:16:28.620Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: 'FD4B18C6-6B3A-4A45-B9F4-1A5C2AFA2A68,6DCBCD40-7D8F-4D19-8A5A-3565A1E1C9C8',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: FD4B18C6-6B3A-4A45-B9F4-1A5C2AFA2A68,6DCBCD40-7D8F-4D19-8A5A-3565A1E
+1C9C8
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Insights failed, trying recommendations endpoint...
+[QLOO API] Error: Both endpoints failed. Status: 400
+[2025-07-29T02:16:29.247Z] Function get_recommendation completed in 627ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] search_entity called
+[2025-07-29T02:17:12.731Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Spaceballs' }
+[QLOO API] search_entity called with query: "Spaceballs"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Spaceballs
+[QLOO API] [QLOO API] Response: 200, found 10 results
+[QLOO API] [QLOO API] Returning: Spaceballs (65FEF729-0C8B-437B-9C17-698B56B7E55F)
+[2025-07-29T02:17:13.216Z] Function search_entity completed in 485ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] search_entity called
+[2025-07-29T02:17:14.250Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Star Wars' }
+[QLOO API] search_entity called with query: "Star Wars"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Star%20Wars
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Star Wars (D74C901C-ABF4-41C8-BCC6-C56264CEB510)
+[2025-07-29T02:17:14.820Z] Function search_entity completed in 570ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:17:16.867Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '65FEF729-0C8B-437B-9C17-698B56B7E55F,D74C901C-ABF4-41C8-BCC6-C56264CEB510',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 65FEF729-0C8B-437B-9C17-698B56B7E55F,D74C901C-ABF4-41C8-BCC6-C56264C
+EB510
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Powerless (score: 0.925)
+[QLOO API]      Tags: Sci-Fi, The CW, Google Play Movies, 9Now, superhero
+[QLOO API]      Influence: Spaceballs (50%), Star Wars (50%)
+[QLOO API]   2. Doom Patrol (score: 0.925)
+[QLOO API]      Tags: Telia Play, misfit superhero team, superhero adventure, HBO Max Free, s
+hrinking
+[QLOO API]      Influence: Star Wars (51%), Spaceballs (49%)
+[QLOO API]   3. Lois & Clark: The New Adventures of Superman (score: 0.922)
+[QLOO API]      Tags: HBO Max Amazon Channel, Adventure, dc shared universe, jimmy olsen char
+acter, flying superhero
+[QLOO API]      Influence: Spaceballs (50%), Star Wars (50%)
+[QLOO API]   Taste Bridge: Bridges Spaceballs and Star Wars preferences equally
+[2025-07-29T02:17:17.381Z] Function get_recommendation completed in 514ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:17:38.300Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '5A9D5296-2B9A-414D-BD8E-E9D9F6E3D1A6,1F3C1C2F-7C56-4C1B-8B9C-3A9C8D9E1D6D',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 5A9D5296-2B9A-414D-BD8E-E9D9F6E3D1A6,1F3C1C2F-7C56-4C1B-8B9C-3A9C8D9
+E1D6D
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Insights failed, trying recommendations endpoint...
+[QLOO API] Error: Both endpoints failed. Status: 400
+[2025-07-29T02:17:38.940Z] Function get_recommendation completed in 640ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] error for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] search_entity called
+[2025-07-29T02:17:57.780Z] Starting function call: search_entity
+Calling function: search_entity { query: 'StarCraft 2' }
+[QLOO API] search_entity called with query: "StarCraft 2"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=StarCraft%20
+2
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Shadow of the Xel'Naga (Starcraft, #2) (605D5163-FFB7-46B5-A
+BA3-8FC0A6390931)
+[2025-07-29T02:17:58.641Z] Function search_entity completed in 861ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] search_entity called
+[2025-07-29T02:18:01.205Z] Starting function call: search_entity
+Calling function: search_entity { query: 'Counter-Strike' }
+[QLOO API] search_entity called with query: "Counter-Strike"
+[QLOO API] [CACHE MISS] Calling: GET https://hackathon.api.qloo.com/search?query=Counter-Stri
+ke
+[QLOO API] [QLOO API] Response: 200, found 20 results
+[QLOO API] [QLOO API] Returning: Counter-Strike (49255912-0607-4F63-A1D4-2871D09F6B3C)
+[2025-07-29T02:18:01.488Z] Function search_entity completed in 283ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Function] get_recommendation called
+[2025-07-29T02:18:04.277Z] Starting function call: get_recommendation
+Calling function: get_recommendation {
+  entity_ids: '605D5163-FFB7-46B5-ABA3-8FC0A6390931,49255912-0607-4F63-A1D4-2871D09F6B3C',
+  output_type: 'urn:entity:tv_show'
+}
+[QLOO API] get_recommendation called
+[QLOO API]   Entity IDs: 605D5163-FFB7-46B5-ABA3-8FC0A6390931,49255912-0607-4F63-A1D4-2871D09
+F6B3C
+[QLOO API]   Tag IDs: none
+[QLOO API]   Output type: urn:entity:tv_show
+[QLOO API] Response: 200, found 5 results
+[QLOO API]   Detected 1 franchise clusters
+[QLOO API]     Franchise "disney gallery": 2 entries
+[QLOO API]   DEBUG: Found 1 unique sequel IDs
+[QLOO API]   DEBUG: Top 3 entities: Disney Gallery: The Mandalorian, Aerial America, Andes Má
+gicos
+[QLOO API]   DEBUG: Sequels in top 3: 0
+[QLOO API]   DEBUG: Is top pick a sequel: false
+[QLOO API]   DEBUG: Will filter: false
+[QLOO API] Returning 3 recommendations with explainability
+[QLOO API]   1. Disney Gallery: The Mandalorian (score: 0.945)
+[QLOO API]      Tags: Hotstar, reference to star wars, behind the scenes, Disney Plus, entert
+ainment documentary
+[QLOO API]      Influence: Shadow of the Xel'Naga (Starcraft, #2) (54%), Counter-Strike (46%)
+[QLOO API]   2. Aerial America (score: 0.939)
+[QLOO API]      Tags: Paramount+ Amazon Channel, TV 2, filmfriend, Smithsonian Channel Amazon
+ Channel, Amazon Video
+[QLOO API]      Influence: Shadow of the Xel'Naga (Starcraft, #2) (51%), Counter-Strike (49%)
+[QLOO API]   3. Andes Mágicos (score: 0.938)
+[QLOO API]      Tags: Netflix basic with Ads, Documentary, Netflix, travel documentary, Netfl
+ix Kids
+[QLOO API]      Influence: Shadow of the Xel'Naga (Starcraft, #2) (51%), Counter-Strike (49%)
+[QLOO API]   Taste Bridge: Bridges Shadow of the Xel'Naga (Starcraft, #2) and Counter-Strike
+preferences equally
+[2025-07-29T02:18:04.788Z] Function get_recommendation completed in 511ms
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[Model] response.output_item.done for session: MZ995dfde8b352855f104a3f1f26d4b2a8
+[SessionManager] Call disconnected: MZ995dfde8b352855f104a3f1f26d4b2a8
+[SessionManager] Active sessions: 0
+
