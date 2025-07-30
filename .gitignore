@@ -73,3 +73,6 @@ yarn-error.log*
 # You can selectively add back with:
 # git add -f docs/specific-file.md
 # git add -f scripts/specific-script.py.claude/
+
+# Git backup
+.git-backup/
