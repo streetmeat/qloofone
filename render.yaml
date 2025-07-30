@@ -3,7 +3,7 @@ services:
   - type: web
     name: qloophone-backend
     env: docker
-    repo: https://github.com/streetmeat/qloophone
+    repo: https://github.com/streetmeat/qloofone
     dockerfilePath: ./qloophone-backend/Dockerfile
     rootDir: qloophone-backend
     region: oregon
@@ -31,7 +31,7 @@ services:
   - type: web
     name: qloophone-monitor
     env: docker
-    repo: https://github.com/streetmeat/qloophone
+    repo: https://github.com/streetmeat/qloofone
     dockerfilePath: ./qloophone-monitor/Dockerfile
     rootDir: qloophone-monitor
     region: oregon
