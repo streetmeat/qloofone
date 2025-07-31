@@ -18,6 +18,9 @@ RUN npm install -D typescript @types/node
 # Build the application
 RUN npm run build
 
+# Copy twiml.xml to dist directory (TypeScript doesn't copy non-TS files)
+COPY qloophone-backend/src/twiml.xml ./dist/
+
 # Expose port
 EXPOSE 8081
 
