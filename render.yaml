@@ -4,8 +4,7 @@ services:
     name: qloophone-backend
     env: docker
     repo: https://github.com/streetmeat/qloofone
-    dockerfilePath: ./qloophone-backend/Dockerfile
-    rootDir: qloophone-backend
+    dockerContext: qloophone-backend
     region: oregon
     plan: free
     healthCheckPath: /health
@@ -32,8 +31,7 @@ services:
     name: qloophone-monitor
     env: docker
     repo: https://github.com/streetmeat/qloofone
-    dockerfilePath: ./qloophone-monitor/Dockerfile
-    rootDir: qloophone-monitor
+    dockerContext: qloophone-monitor
     region: oregon
     plan: free
     autoDeploy: true
