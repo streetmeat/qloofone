@@ -10,8 +10,9 @@ import { Badge } from "@/components/ui/badge";
 import { Item } from "@/components/types";
 import handleRealtimeEvent from "@/lib/handle-realtime-event";
 
-// Backend URL from environment variable (replaced at build time)
-const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || 'localhost:8081';
+// Backend URL - hardcoded for Render deployment
+// TODO: Make this configurable via env var after fixing Render build
+const BACKEND_URL = 'https://qloophone-backend.onrender.com';
 
 export default function Page() {
   const [items, setItems] = useState<Item[]>([]);
