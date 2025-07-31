@@ -10,9 +10,10 @@ import { Badge } from "@/components/ui/badge";
 import { Item } from "@/components/types";
 import handleRealtimeEvent from "@/lib/handle-realtime-event";
 
-// Backend URL - hardcoded for Render deployment
-// TODO: Make this configurable via env var after fixing Render build
-const BACKEND_URL = 'https://qloophone-backend.onrender.com';
+// Backend URL - automatically detects local vs production
+const BACKEND_URL = typeof window !== 'undefined' 
+  ? (window.location.hostname === 'localhost' ? 'localhost:8081' : 'https://qloophone-backend.onrender.com')
+  : 'https://qloophone-backend.onrender.com';
 
 export default function Page() {
   const [items, setItems] = useState<Item[]>([]);
