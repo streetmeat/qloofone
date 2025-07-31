@@ -2,14 +2,14 @@ FROM node:18-alpine AS builder
 
 WORKDIR /app
 
-# Copy package files
-COPY package*.json ./
+# Copy package files from the monitor directory
+COPY qloophone-monitor/package*.json ./
 
 # Install dependencies
 RUN npm ci
 
-# Copy application files
-COPY . .
+# Copy application files from the monitor directory
+COPY qloophone-monitor/ ./
 
 # Build the Next.js application
 RUN npm run build
@@ -19,8 +19,8 @@ FROM node:18-alpine AS runner
 
 WORKDIR /app
 
-# Copy package files
-COPY package*.json ./
+# Copy package files from the monitor directory
+COPY qloophone-monitor/package*.json ./
 
 # Install only production dependencies
 RUN npm ci --only=production
