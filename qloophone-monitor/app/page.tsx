@@ -10,6 +10,9 @@ import { Badge } from "@/components/ui/badge";
 import { Item } from "@/components/types";
 import handleRealtimeEvent from "@/lib/handle-realtime-event";
 
+// Backend URL from environment variable (replaced at build time)
+const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || 'localhost:8081';
+
 export default function Page() {
   const [items, setItems] = useState<Item[]>([]);
   const [callStatus, setCallStatus] = useState("disconnected");
@@ -24,10 +27,11 @@ export default function Page() {
   }, [items]);
 
   useEffect(() => {
-    // Use environment variable for backend URL in production
-    const backendUrl = process.env.NEXT_PUBLIC_BACKEND_URL || 'localhost:8081';
+    // Use the build-time constant for backend URL
+    console.log("[Monitor] Using backend URL:", BACKEND_URL);
     const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
-    const wsHost = backendUrl.replace(/^https?:\/\//, ''); // Remove protocol if present
+    const wsHost = BACKEND_URL.replace(/^https?:\/\//, ''); // Remove protocol if present
+    console.log("[Monitor] Connecting to WebSocket:", `${wsProtocol}//${wsHost}/logs`);
     const newWs = new WebSocket(`${wsProtocol}//${wsHost}/logs`);
 
     newWs.onopen = () => {
