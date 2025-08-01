@@ -95,7 +95,7 @@ const Transcript: React.FC<TranscriptProps> = ({ items }) => {
                           ? "Caller"
                           : isTool
                           ? "Tool Response"
-                          : "Assistant"}
+                          : "QlooPhone"}
                       </span>
                       <span className="text-xs text-gray-500">
                         {msg.timestamp}
