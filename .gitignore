@@ -60,19 +60,18 @@ yarn-error.log*
 .vercel
 .netlify
 
-# EXCLUDE ALL DOCS AND SCRIPTS BY DEFAULT
-/docs/
-/scripts/
-*.md
+# Test results and logs
+test-results-*.json
+api-test-results.json
+real-test-results-*.json
+*-logs.txt
+captured-logs.txt
 
-# SELECTIVELY ALLOW ONLY THESE
-!PRD.md
-!README.md
-!.env.example
+# Claude settings
+.claude/
 
-# You can selectively add back with:
-# git add -f docs/specific-file.md
-# git add -f scripts/specific-script.py.claude/
+# Allow all markdown files
+!*.md
 
 # Git backup
 .git-backup/

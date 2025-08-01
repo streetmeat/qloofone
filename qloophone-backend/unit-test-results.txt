@@ -1,4 +1,0 @@
-
-> qloophone-backend@1.0.0 test
-> jest --testPathPattern=(unit|integration) --ci --no-coverage 2
-
