@@ -67,8 +67,10 @@ real-test-results-*.json
 *-logs.txt
 captured-logs.txt
 
-# Claude settings
+# Claude settings and internal docs
 .claude/
+CLAUDE.md
+PRD.md
 
 # Allow all markdown files
 !*.md
